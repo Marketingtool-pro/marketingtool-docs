@@ -4,6 +4,8 @@ description: "Welcome to the MarketingTool.Pro Help Center"
 
 # Welcome to MarketingTool.Pro
 
+<figure><img src=".gitbook/assets/logo.png" alt="MarketingTool.Pro" width="140"><figcaption></figcaption></figure>
+
 **MarketingTool.Pro** is an AI-powered marketing platform with **314 specialized tools** covering Google Ads, Meta, Instagram, SEO, e-commerce, content creation, analytics, and autonomous AI agents — on the web and on iOS and Android.
 
 {% hint style="success" %}
