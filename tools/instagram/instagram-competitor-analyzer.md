@@ -1,5 +1,5 @@
 ---
-description: Analyze your Instagram competitors' strategies — their posting frequency, content types, engagement patterns, top-performing posts, hashtag usage, and growth rate to find opportunities they're missing.
+description: "Analyze your Instagram competitors' strategies — their posting frequency, content types, engagement patterns, top-performing posts, hashtag usage, and growth rate to find opportunities they're missing."
 ---
 
 # Instagram Competitor Analyzer

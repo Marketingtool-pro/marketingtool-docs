@@ -1,5 +1,5 @@
 ---
-description: AI-powered content gap finder
+description: "AI-powered content gap finder"
 ---
 
 # Content Gap Finder

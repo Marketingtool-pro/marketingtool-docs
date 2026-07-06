@@ -1,5 +1,5 @@
 ---
-description: Optimize geographic targeting and bid adjustments in Google Ads. Analyze performance by city, state, and region to increase bids in high-converting areas and cut spend in low-performers.
+description: "Optimize geographic targeting and bid adjustments in Google Ads. Analyze performance by city, state, and region to increase bids in high-converting areas and cut spend in low-performers."
 ---
 
 # Geo Targeting Optimizer

@@ -1,5 +1,5 @@
 ---
-description: AI-powered multi channel attribution
+description: "AI-powered multi channel attribution"
 ---
 
 # Multi Channel Attribution

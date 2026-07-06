@@ -1,5 +1,5 @@
 ---
-description: Research keywords, close content gaps, and generate metadata that ranks.
+description: "Research keywords, close content gaps, and generate metadata that ranks."
 ---
 
 # SEO

@@ -1,5 +1,5 @@
 ---
-description: AI-powered sentence shortener
+description: "AI-powered sentence shortener"
 ---
 
 # Sentence Shortener

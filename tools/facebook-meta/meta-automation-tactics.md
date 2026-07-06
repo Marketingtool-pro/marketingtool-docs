@@ -1,5 +1,5 @@
 ---
-description: Deploy 4 proven automation tactics used by top-tier media buyers for Facebook ads. Real-time triggers (not 15-30 minute delays) automatically scale winners, kill losers, and maximize ROAS.
+description: "Deploy 4 proven automation tactics used by top-tier media buyers for Facebook ads. Real-time triggers (not 15-30 minute delays) automatically scale winners, kill losers, and maximize ROAS."
 ---
 
 # Meta Automation Tactics

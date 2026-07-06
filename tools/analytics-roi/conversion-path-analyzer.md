@@ -1,5 +1,5 @@
 ---
-description: AI-powered conversion path analyzer
+description: "AI-powered conversion path analyzer"
 ---
 
 # Conversion Path Analyzer

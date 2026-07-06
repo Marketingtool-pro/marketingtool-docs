@@ -1,5 +1,5 @@
 ---
-description: Analyzes cart abandonment patterns, identifies top drop-off reasons, and generates targeted recovery strategies beyond basic email.
+description: "Analyzes cart abandonment patterns, identifies top drop-off reasons, and generates targeted recovery strategies beyond basic email."
 ---
 
 # Cart Abandonment Analyzer

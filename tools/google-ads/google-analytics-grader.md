@@ -1,5 +1,5 @@
 ---
-description: Audit your Google Analytics setup and configuration. Check tracking code installation, goal setup, event tracking, conversion attribution, and data accuracy to ensure reliable reporting.
+description: "Audit your Google Analytics setup and configuration. Check tracking code installation, goal setup, event tracking, conversion attribution, and data accuracy to ensure reliable reporting."
 ---
 
 # Google Analytics Grader

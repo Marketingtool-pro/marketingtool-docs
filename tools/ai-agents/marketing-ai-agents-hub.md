@@ -1,5 +1,5 @@
 ---
-description: AI-powered marketing ai agents hub
+description: "AI-powered marketing ai agents hub"
 ---
 
 # Marketing Ai Agents Hub

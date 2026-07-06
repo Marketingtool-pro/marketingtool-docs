@@ -1,5 +1,5 @@
 ---
-description: AI-powered automated ad launch tool
+description: "AI-powered automated ad launch tool"
 ---
 
 # Automated Ad Launch Tool

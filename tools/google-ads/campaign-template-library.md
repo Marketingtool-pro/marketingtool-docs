@@ -1,5 +1,5 @@
 ---
-description: Pre-built campaign templates for every Google Ads campaign type. Launch new Search, Shopping, Display, and Performance Max campaigns with proven structures, settings, and best practices.
+description: "Pre-built campaign templates for every Google Ads campaign type. Launch new Search, Shopping, Display, and Performance Max campaigns with proven structures, settings, and best practices."
 ---
 
 # Campaign Template Library

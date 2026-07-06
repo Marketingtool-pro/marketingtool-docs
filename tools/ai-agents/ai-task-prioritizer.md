@@ -1,5 +1,5 @@
 ---
-description: AI-powered ai task prioritizer
+description: "AI-powered ai task prioritizer"
 ---
 
 # Ai Task Prioritizer

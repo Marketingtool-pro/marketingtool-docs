@@ -1,5 +1,5 @@
 ---
-description: Analyze your ad copy performance across campaigns to discover which headlines, CTAs, and messaging angles drive the highest conversions and lowest CPA on Facebook and Instagram.
+description: "Analyze your ad copy performance across campaigns to discover which headlines, CTAs, and messaging angles drive the highest conversions and lowest CPA on Facebook and Instagram."
 ---
 
 # Ad Copy Insights

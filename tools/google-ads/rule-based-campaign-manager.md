@@ -1,5 +1,5 @@
 ---
-description: Manage campaigns using custom IF/THEN rules. Set rules like 'IF CPA > $50 THEN reduce bid by 10%' or 'IF conversion rate > 5% THEN increase budget by 15%' for hands-free management.
+description: "Manage campaigns using custom IF/THEN rules. Set rules like 'IF CPA > $50 THEN reduce bid by 10%' or 'IF conversion rate > 5% THEN increase budget by 15%' for hands-free management."
 ---
 
 # Rule Based Campaign Manager

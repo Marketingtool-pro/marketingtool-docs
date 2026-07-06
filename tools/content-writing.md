@@ -1,5 +1,5 @@
 ---
-description: Write blogs, articles, ad copy, and product descriptions — then refine every sentence with AI editing tools.
+description: "Write blogs, articles, ad copy, and product descriptions — then refine every sentence with AI editing tools."
 ---
 
 # Content & Copywriting

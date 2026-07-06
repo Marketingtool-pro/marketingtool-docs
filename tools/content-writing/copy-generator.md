@@ -1,5 +1,5 @@
 ---
-description: AI-powered copy generator
+description: "AI-powered copy generator"
 ---
 
 # Copy Generator

@@ -1,5 +1,5 @@
 ---
-description: AI-powered budget optimization that automatically redistributes Facebook ad spend to top-performing campaigns, ad sets, and creatives in real-time — maximizing ROAS without manual intervention.
+description: "AI-powered budget optimization that automatically redistributes Facebook ad spend to top-performing campaigns, ad sets, and creatives in real-time — maximizing ROAS without manual intervention."
 ---
 
 # Meta Autonomous Budget Optimizer

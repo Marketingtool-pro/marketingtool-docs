@@ -1,5 +1,5 @@
 ---
-description: Smarter PPC audits with faster results. In-depth analysis covering account structure, keyword conflicts, negative keyword gaps, ad group themes, and bidding strategy alignment.
+description: "Smarter PPC audits with faster results. In-depth analysis covering account structure, keyword conflicts, negative keyword gaps, ad group themes, and bidding strategy alignment."
 ---
 
 # PPC Audit & Analysis

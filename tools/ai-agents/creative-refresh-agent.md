@@ -1,5 +1,5 @@
 ---
-description: Automated creative refresh agent that monitors ad fatigue signals and generates new creative variations when performance starts declining. Keep your Facebook and Instagram ads fresh without manual intervention.
+description: "Automated creative refresh agent that monitors ad fatigue signals and generates new creative variations when performance starts declining. Keep your Facebook and Instagram ads fresh without manual intervention."
 ---
 
 # Creative Refresh Agent

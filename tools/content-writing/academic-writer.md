@@ -1,5 +1,5 @@
 ---
-description: AI-powered academic writer
+description: "AI-powered academic writer"
 ---
 
 # Academic Writer

@@ -1,5 +1,5 @@
 ---
-description: Build custom audit rules that automatically flag issues in your Google Ads account. Set conditions for keywords, ads, and campaigns that trigger alerts when thresholds are breached.
+description: "Build custom audit rules that automatically flag issues in your Google Ads account. Set conditions for keywords, ads, and campaigns that trigger alerts when thresholds are breached."
 ---
 
 # PPC Rule Engine

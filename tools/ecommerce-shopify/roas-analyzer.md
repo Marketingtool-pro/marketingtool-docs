@@ -1,5 +1,5 @@
 ---
-description: Monitors Return on Ad Spend across all channels, identifies underperforming campaigns, and suggests budget reallocation for maximum efficiency.
+description: "Monitors Return on Ad Spend across all channels, identifies underperforming campaigns, and suggests budget reallocation for maximum efficiency."
 ---
 
 # ROAS Analyzer

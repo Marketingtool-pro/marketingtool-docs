@@ -1,5 +1,5 @@
 ---
-description: Audit, optimize, and scale your Google Ads campaigns — budgets, bids, keywords, quality scores, and full account graders.
+description: "Audit, optimize, and scale your Google Ads campaigns — budgets, bids, keywords, quality scores, and full account graders."
 ---
 
 # Google Ads & PPC

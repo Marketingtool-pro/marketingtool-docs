@@ -1,5 +1,5 @@
 ---
-description: Audit every ad in your Google Ads account. Identify underperforming ads, policy violations, missing extensions, and ad copy issues across all campaigns with actionable fix recommendations.
+description: "Audit every ad in your Google Ads account. Identify underperforming ads, policy violations, missing extensions, and ad copy issues across all campaigns with actionable fix recommendations."
 ---
 
 # Ad Audit Tool

@@ -1,5 +1,5 @@
 ---
-description: Complete toolkit for Google Ads campaign management. Create, optimize, and scale campaigns with bulk editing, automated rules, performance tracking, and competitive analysis in one place.
+description: "Complete toolkit for Google Ads campaign management. Create, optimize, and scale campaigns with bulk editing, automated rules, performance tracking, and competitive analysis in one place."
 ---
 
 # Campaign Tools Suite

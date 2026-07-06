@@ -1,5 +1,5 @@
 ---
-description: Drag-and-drop Facebook audience builder that combines interests, behaviors, demographics, custom audiences, and lookalikes into precision-targeted segments. Intersect and exclude for laser-focused targeting.
+description: "Drag-and-drop Facebook audience builder that combines interests, behaviors, demographics, custom audiences, and lookalikes into precision-targeted segments. Intersect and exclude for laser-focused targeting."
 ---
 
 # Meta Audience Builder

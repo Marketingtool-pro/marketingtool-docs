@@ -1,5 +1,5 @@
 ---
-description: AI-driven campaign management that monitors, adjusts, and optimizes your Google Ads campaigns automatically. Set goals and let AI handle bid adjustments, budget shifts, and ad rotations.
+description: "AI-driven campaign management that monitors, adjusts, and optimizes your Google Ads campaigns automatically. Set goals and let AI handle bid adjustments, budget shifts, and ad rotations."
 ---
 
 # Ai Campaign Manager

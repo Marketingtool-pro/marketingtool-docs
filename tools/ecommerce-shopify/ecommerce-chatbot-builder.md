@@ -1,5 +1,5 @@
 ---
-description: Creates an AI customer service chatbot script trained on your product catalog, shipping policies, and FAQ for instant support.
+description: "Creates an AI customer service chatbot script trained on your product catalog, shipping policies, and FAQ for instant support."
 ---
 
 # Ecommerce Chatbot Builder

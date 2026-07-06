@@ -1,5 +1,5 @@
 ---
-description: Generates optimized meta titles, descriptions, alt tags, and structured data for every product and collection page on your Shopify store.
+description: "Generates optimized meta titles, descriptions, alt tags, and structured data for every product and collection page on your Shopify store."
 ---
 
 # Shopify SEO Optimizer

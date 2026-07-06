@@ -1,5 +1,5 @@
 ---
-description: AI-powered cross sell ad generator
+description: "AI-powered cross sell ad generator"
 ---
 
 # Cross Sell Ad Generator

@@ -1,5 +1,5 @@
 ---
-description: Orchestrates coordinated marketing campaigns across email, SMS, push, and social ads with unified customer journey mapping.
+description: "Orchestrates coordinated marketing campaigns across email, SMS, push, and social ads with unified customer journey mapping."
 ---
 
 # Omnichannel Campaign Orchestrator

@@ -1,5 +1,5 @@
 ---
-description: AI-powered marketing efficiency software
+description: "AI-powered marketing efficiency software"
 ---
 
 # Marketing Efficiency Software

@@ -1,5 +1,5 @@
 ---
-description: Advanced hashtag research and generation tool that analyzes trending hashtags, competition levels, and audience overlap to create optimized hashtag strategies for maximum social media discoverability.
+description: "Advanced hashtag research and generation tool that analyzes trending hashtags, competition levels, and audience overlap to create optimized hashtag strategies for maximum social media discoverability."
 ---
 
 # Social Hashtag Generator

@@ -1,5 +1,5 @@
 ---
-description: Set up and optimize Meta Conversions API (CAPI) for server-side event tracking. Restore attribution accuracy lost after iOS 14.5+ privacy changes and see 20-30% more conversion data in Ads Manager.
+description: "Set up and optimize Meta Conversions API (CAPI) for server-side event tracking. Restore attribution accuracy lost after iOS 14.5+ privacy changes and see 20-30% more conversion data in Ads Manager."
 ---
 
 # Meta Conversions API Setup

@@ -1,5 +1,5 @@
 ---
-description: Your home base at app.marketingtool.pro
+description: "Your home base at app.marketingtool.pro"
 ---
 
 # Dashboard

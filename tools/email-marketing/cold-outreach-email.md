@@ -1,5 +1,5 @@
 ---
-description: Create effective cold outreach emails
+description: "Create effective cold outreach emails"
 ---
 
 # Cold Outreach Email

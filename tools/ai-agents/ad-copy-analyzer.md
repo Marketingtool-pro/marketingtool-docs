@@ -1,5 +1,5 @@
 ---
-description: AI-powered ad copy analyzer
+description: "AI-powered ad copy analyzer"
 ---
 
 # Ad Copy Analyzer

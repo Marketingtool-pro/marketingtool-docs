@@ -1,5 +1,5 @@
 ---
-description: Create consistent brand voice guidelines
+description: "Create consistent brand voice guidelines"
 ---
 
 # Brand Voice Generator

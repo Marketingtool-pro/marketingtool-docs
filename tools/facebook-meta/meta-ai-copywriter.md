@@ -1,5 +1,5 @@
 ---
-description: Generate high-converting Facebook and Instagram ad copy with AI trained on Meta advertising data. Create compelling headlines, descriptions, and CTAs across multiple formats including Stories, Reels, and Feed ads.
+description: "Generate high-converting Facebook and Instagram ad copy with AI trained on Meta advertising data. Create compelling headlines, descriptions, and CTAs across multiple formats including Stories, Reels, and Feed ads."
 ---
 
 # Meta AI Copywriter

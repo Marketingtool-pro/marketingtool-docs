@@ -1,5 +1,5 @@
 ---
-description: AI-powered backlink outreach email generator
+description: "AI-powered backlink outreach email generator"
 ---
 
 # Backlink Outreach Email Generator

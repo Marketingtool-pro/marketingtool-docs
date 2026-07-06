@@ -1,5 +1,5 @@
 ---
-description: Manage campaigns across Google Ads, Microsoft Ads, and other platforms from a single hub. Sync settings, compare performance cross-platform, and manage budgets centrally.
+description: "Manage campaigns across Google Ads, Microsoft Ads, and other platforms from a single hub. Sync settings, compare performance cross-platform, and manage budgets centrally."
 ---
 
 # Multi Platform Campaign Hub

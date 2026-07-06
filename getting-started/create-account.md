@@ -1,5 +1,5 @@
 ---
-description: Sign up with email OTP or your existing accounts
+description: "Sign up with email OTP or your existing accounts"
 ---
 
 # Create an account

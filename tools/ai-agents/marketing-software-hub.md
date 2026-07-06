@@ -1,5 +1,5 @@
 ---
-description: AI-powered marketing software hub
+description: "AI-powered marketing software hub"
 ---
 
 # Marketing Software Hub

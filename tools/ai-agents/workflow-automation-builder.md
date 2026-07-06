@@ -1,5 +1,5 @@
 ---
-description: AI-powered workflow automation builder
+description: "AI-powered workflow automation builder"
 ---
 
 # Workflow Automation Builder

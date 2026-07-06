@@ -1,5 +1,5 @@
 ---
-description: AI-powered study notes generator
+description: "AI-powered study notes generator"
 ---
 
 # Study Notes Generator

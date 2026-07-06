@@ -1,5 +1,5 @@
 ---
-description: Starter, Pro, and Growth — plans, generations, and top-ups
+description: "Starter, Pro, and Growth — plans, generations, and top-ups"
 ---
 
 # Plans & credits

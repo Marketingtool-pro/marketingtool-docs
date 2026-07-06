@@ -1,5 +1,5 @@
 ---
-description: Cross-channel reporting dashboard that unifies Meta Ads, Google Ads, GA4, Shopify, Klaviyo, and TikTok data into real-time, always-updated dashboards — replacing manual spreadsheets and fragmented reports.
+description: "Cross-channel reporting dashboard that unifies Meta Ads, Google Ads, GA4, Shopify, Klaviyo, and TikTok data into real-time, always-updated dashboards — replacing manual spreadsheets and fragmented reports."
 ---
 
 # Meta Ads Dashboard

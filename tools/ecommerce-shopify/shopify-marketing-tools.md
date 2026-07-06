@@ -1,5 +1,5 @@
 ---
-description: AI-powered shopify marketing tools
+description: "AI-powered shopify marketing tools"
 ---
 
 # Shopify Marketing Tools

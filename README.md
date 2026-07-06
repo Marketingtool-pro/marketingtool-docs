@@ -1,5 +1,5 @@
 ---
-description: Welcome to the MarketingTool.Pro Help Center
+description: "Welcome to the MarketingTool.Pro Help Center"
 ---
 
 # Welcome to MarketingTool.Pro

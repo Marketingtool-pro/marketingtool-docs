@@ -1,5 +1,5 @@
 ---
-description: Analytics, Campaigns, Reports, Ad Library, and Meta Audit
+description: "Analytics, Campaigns, Reports, Ad Library, and Meta Audit"
 ---
 
 # Analytics, campaigns & reports

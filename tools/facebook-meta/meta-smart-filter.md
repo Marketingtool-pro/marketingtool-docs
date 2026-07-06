@@ -1,5 +1,5 @@
 ---
-description: Advanced filtering system for Facebook campaigns that lets you slice performance data by any combination of metrics, funnel stages, ad types, and custom parameters to instantly find what's working and what's not.
+description: "Advanced filtering system for Facebook campaigns that lets you slice performance data by any combination of metrics, funnel stages, ad types, and custom parameters to instantly find what's working and what's not."
 ---
 
 # Meta Smart Filter

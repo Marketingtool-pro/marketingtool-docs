@@ -1,5 +1,5 @@
 ---
-description: What's new in MarketingTool.Pro
+description: "What's new in MarketingTool.Pro"
 ---
 
 # Product updates

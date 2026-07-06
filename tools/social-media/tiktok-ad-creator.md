@@ -1,5 +1,5 @@
 ---
-description: Create viral TikTok ad content
+description: "Create viral TikTok ad content"
 ---
 
 # Tiktok Ad Creator

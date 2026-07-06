@@ -1,5 +1,5 @@
 ---
-description: Smart bidding tools and faster insights. Set target CPA or ROAS, automate bid adjustments by device, location, and time of day, and maximize ROI on every click.
+description: "Smart bidding tools and faster insights. Set target CPA or ROAS, automate bid adjustments by device, location, and time of day, and maximize ROI on every click."
 ---
 
 # Bid Management Tool

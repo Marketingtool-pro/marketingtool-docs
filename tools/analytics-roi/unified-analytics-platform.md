@@ -1,5 +1,5 @@
 ---
-description: AI-powered unified analytics platform
+description: "AI-powered unified analytics platform"
 ---
 
 # Unified Analytics Platform

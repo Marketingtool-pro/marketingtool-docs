@@ -1,5 +1,5 @@
 ---
-description: Server-side tracking solution that restores accurate conversion data lost after iOS 14.5+ privacy updates. See approximately 20% more conversions in Meta Ads Manager with real-time event transmission and zero-maintenance cloud infrastructure.
+description: "Server-side tracking solution that restores accurate conversion data lost after iOS 14.5+ privacy updates. See approximately 20% more conversions in Meta Ads Manager with real-time event transmission and zero-maintenance cloud infrastructure."
 ---
 
 # Meta Cloud Tracking

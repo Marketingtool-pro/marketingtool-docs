@@ -1,5 +1,5 @@
 ---
-description: Recommends and generates trust badges, secure payment icons, and social proof elements optimized for your store's niche.
+description: "Recommends and generates trust badges, secure payment icons, and social proof elements optimized for your store's niche."
 ---
 
 # Shopify Trust Badge Optimizer

@@ -1,5 +1,5 @@
 ---
-description: Intelligently allocate budget across campaigns based on performance, goals, and priority. Automatically shift spend from underperformers to your highest-ROI campaigns.
+description: "Intelligently allocate budget across campaigns based on performance, goals, and priority. Automatically shift spend from underperformers to your highest-ROI campaigns."
 ---
 
 # Campaign Budget Allocator

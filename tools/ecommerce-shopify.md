@@ -1,5 +1,5 @@
 ---
-description: Sell more with product feed optimization, dynamic product ads, cart recovery, and a full Shopify toolkit.
+description: "Sell more with product feed optimization, dynamic product ads, cart recovery, and a full Shopify toolkit."
 ---
 
 # E-commerce & Shopify

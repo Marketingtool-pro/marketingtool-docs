@@ -1,5 +1,5 @@
 ---
-description: AI-powered optimization software suite
+description: "AI-powered optimization software suite"
 ---
 
 # Optimization Software Suite

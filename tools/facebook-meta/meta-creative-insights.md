@@ -1,5 +1,5 @@
 ---
-description: AI-powered creative analytics that unifies billions of data points to identify which Facebook and Instagram ad creatives generate the highest revenue, detect ad fatigue, and recommend creative direction.
+description: "AI-powered creative analytics that unifies billions of data points to identify which Facebook and Instagram ad creatives generate the highest revenue, detect ad fatigue, and recommend creative direction."
 ---
 
 # Meta Creative Insights

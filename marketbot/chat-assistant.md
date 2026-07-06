@@ -1,5 +1,5 @@
 ---
-description: Your in-app AI marketing assistant
+description: "Your in-app AI marketing assistant"
 ---
 
 # Chat with MarketBot

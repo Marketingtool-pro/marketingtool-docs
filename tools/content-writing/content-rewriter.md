@@ -1,5 +1,5 @@
 ---
-description: AI-powered content rewriter
+description: "AI-powered content rewriter"
 ---
 
 # Content Rewriter

@@ -1,5 +1,5 @@
 ---
-description: Track every change made to your Facebook ad sets and see exactly how each modification impacts performance. Monitor team actions, automation triggers, and KPI shifts with color-coded analytics.
+description: "Track every change made to your Facebook ad sets and see exactly how each modification impacts performance. Monitor team actions, automation triggers, and KPI shifts with color-coded analytics."
 ---
 
 # Ad Set Storyline

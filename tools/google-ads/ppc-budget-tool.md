@@ -1,5 +1,5 @@
 ---
-description: Calculate the optimal PPC budget for your goals. Enter your target CPA, desired conversions, and industry benchmarks to get recommended monthly and daily budgets with confidence ranges.
+description: "Calculate the optimal PPC budget for your goals. Enter your target CPA, desired conversions, and industry benchmarks to get recommended monthly and daily budgets with confidence ranges."
 ---
 
 # PPC Budget Calculator

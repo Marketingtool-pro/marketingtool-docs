@@ -1,5 +1,5 @@
 ---
-description: Scale your campaigns, not your workload. Complete PPC optimization covering bids, keywords, ads, audiences, and landing pages with impact-ranked recommendations.
+description: "Scale your campaigns, not your workload. Complete PPC optimization covering bids, keywords, ads, audiences, and landing pages with impact-ranked recommendations."
 ---
 
 # PPC Optimization Suite

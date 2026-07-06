@@ -1,5 +1,5 @@
 ---
-description: AI-powered explainer generator
+description: "AI-powered explainer generator"
 ---
 
 # Explainer Generator

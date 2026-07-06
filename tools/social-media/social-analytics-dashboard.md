@@ -1,5 +1,5 @@
 ---
-description: Unified social media analytics dashboard tracking followers, engagement, reach, impressions, and revenue across Instagram, Facebook, TikTok, and YouTube with beautiful visual reports and benchmarking.
+description: "Unified social media analytics dashboard tracking followers, engagement, reach, impressions, and revenue across Instagram, Facebook, TikTok, and YouTube with beautiful visual reports and benchmarking."
 ---
 
 # Social Analytics Dashboard

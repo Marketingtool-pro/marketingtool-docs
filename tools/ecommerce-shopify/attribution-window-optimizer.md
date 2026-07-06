@@ -1,5 +1,5 @@
 ---
-description: Helps set optimal attribution windows across Meta, Google, and TikTok with privacy-first tracking and incrementality testing.
+description: "Helps set optimal attribution windows across Meta, Google, and TikTok with privacy-first tracking and incrementality testing."
 ---
 
 # Attribution Window Optimizer

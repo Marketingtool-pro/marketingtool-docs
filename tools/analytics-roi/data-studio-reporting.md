@@ -1,5 +1,5 @@
 ---
-description: Automate your PPC reporting with professional Looker Studio templates. Pre-built dashboards with KPI scorecards, trend charts, and campaign breakdowns that update automatically.
+description: "Automate your PPC reporting with professional Looker Studio templates. Pre-built dashboards with KPI scorecards, trend charts, and campaign breakdowns that update automatically."
 ---
 
 # Looker Studio Report Builder

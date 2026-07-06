@@ -1,5 +1,5 @@
 ---
-description: The full platform on iOS and Android — identical on both
+description: "The full platform on iOS and Android — identical on both"
 ---
 
 # The mobile apps

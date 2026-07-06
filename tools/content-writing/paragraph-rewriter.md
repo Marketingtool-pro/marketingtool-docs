@@ -1,5 +1,5 @@
 ---
-description: AI-powered paragraph rewriter
+description: "AI-powered paragraph rewriter"
 ---
 
 # Paragraph Rewriter

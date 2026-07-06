@@ -1,5 +1,5 @@
 ---
-description: AI-powered serp analyzer
+description: "AI-powered serp analyzer"
 ---
 
 # Serp Analyzer

@@ -1,5 +1,5 @@
 ---
-description: Clone and duplicate campaigns with smart modifications. Copy campaign structures to new markets, languages, or match types while adjusting bids, budgets, and targeting automatically.
+description: "Clone and duplicate campaigns with smart modifications. Copy campaign structures to new markets, languages, or match types while adjusting bids, budgets, and targeting automatically."
 ---
 
 # Campaign Cloner Pro

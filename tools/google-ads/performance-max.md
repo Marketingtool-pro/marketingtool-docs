@@ -1,5 +1,5 @@
 ---
-description: Optimize your Performance Max campaigns across all Google channels. Analyze asset group performance, audience signals, and search categories to maximize conversions.
+description: "Optimize your Performance Max campaigns across all Google channels. Analyze asset group performance, audience signals, and search categories to maximize conversions."
 ---
 
 # Performance Max Optimizer

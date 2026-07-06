@@ -1,5 +1,5 @@
 ---
-description: Centralized budget management for all your Google Ads campaigns. Track daily pacing, prevent overspend, redistribute budget to top performers, and forecast monthly costs.
+description: "Centralized budget management for all your Google Ads campaigns. Track daily pacing, prevent overspend, redistribute budget to top performers, and forecast monthly costs."
 ---
 
 # Budget Manager

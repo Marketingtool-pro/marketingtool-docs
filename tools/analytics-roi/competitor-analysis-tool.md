@@ -1,5 +1,5 @@
 ---
-description: AI-powered competitor analysis tool
+description: "AI-powered competitor analysis tool"
 ---
 
 # Competitor Analysis Tool

@@ -1,5 +1,5 @@
 ---
-description: Fast keyword insights and recommendations. Analyze keyword performance, find cannibalization issues, discover expansion opportunities, and optimize match type distribution.
+description: "Fast keyword insights and recommendations. Analyze keyword performance, find cannibalization issues, discover expansion opportunities, and optimize match type distribution."
 ---
 
 # Keyword Analysis Tool

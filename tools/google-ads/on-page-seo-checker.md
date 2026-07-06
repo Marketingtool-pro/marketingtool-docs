@@ -1,5 +1,5 @@
 ---
-description: Check your landing pages for on-page SEO factors that affect Google Ads Quality Score. Analyze page titles, meta descriptions, content relevance, load speed, and mobile-friendliness.
+description: "Check your landing pages for on-page SEO factors that affect Google Ads Quality Score. Analyze page titles, meta descriptions, content relevance, load speed, and mobile-friendliness."
 ---
 
 # On Page Seo Checker

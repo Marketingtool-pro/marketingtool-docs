@@ -1,5 +1,5 @@
 ---
-description: AI-powered api documentation generator
+description: "AI-powered api documentation generator"
 ---
 
 # Api Documentation Generator

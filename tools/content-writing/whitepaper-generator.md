@@ -1,5 +1,5 @@
 ---
-description: Generate professional whitepapers
+description: "Generate professional whitepapers"
 ---
 
 # Whitepaper Generator

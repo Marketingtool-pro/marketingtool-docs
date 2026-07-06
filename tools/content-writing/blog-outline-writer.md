@@ -1,5 +1,5 @@
 ---
-description: AI-powered blog outline writer
+description: "AI-powered blog outline writer"
 ---
 
 # Blog Outline Writer

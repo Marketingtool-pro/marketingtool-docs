@@ -1,5 +1,5 @@
 ---
-description: AI-powered keyword cluster generator
+description: "AI-powered keyword cluster generator"
 ---
 
 # Keyword Cluster Generator

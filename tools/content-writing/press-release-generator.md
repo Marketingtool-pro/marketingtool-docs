@@ -1,5 +1,5 @@
 ---
-description: Generate professional press releases
+description: "Generate professional press releases"
 ---
 
 # Press Release Generator

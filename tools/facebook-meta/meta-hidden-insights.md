@@ -1,5 +1,5 @@
 ---
-description: Uncover performance blind spots and hidden audience segments in your Meta ad account that standard Ads Manager can't reveal. Discover untapped demographics, placements, and optimization opportunities.
+description: "Uncover performance blind spots and hidden audience segments in your Meta ad account that standard Ads Manager can't reveal. Discover untapped demographics, placements, and optimization opportunities."
 ---
 
 # Meta Hidden Insights

@@ -1,5 +1,5 @@
 ---
-description: Optimize bids across your Google Ads account with advanced algorithms. Adjust bids by keyword, device, location, time of day, and audience to maximize conversions within your budget.
+description: "Optimize bids across your Google Ads account with advanced algorithms. Adjust bids by keyword, device, location, time of day, and audience to maximize conversions within your budget."
 ---
 
 # Bid Optimization Engine

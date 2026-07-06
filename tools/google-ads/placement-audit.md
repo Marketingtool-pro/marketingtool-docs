@@ -1,5 +1,5 @@
 ---
-description: Audit your Display Network and YouTube placements. Find sites and channels wasting your budget with low-quality traffic, and build placement exclusion lists to protect your spend.
+description: "Audit your Display Network and YouTube placements. Find sites and channels wasting your budget with low-quality traffic, and build placement exclusion lists to protect your spend."
 ---
 
 # Placement Audit

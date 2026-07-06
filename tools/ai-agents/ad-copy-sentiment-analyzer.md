@@ -1,5 +1,5 @@
 ---
-description: AI-powered ad copy sentiment analyzer
+description: "AI-powered ad copy sentiment analyzer"
 ---
 
 # Ad Copy Sentiment Analyzer

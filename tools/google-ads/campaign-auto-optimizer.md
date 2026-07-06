@@ -1,5 +1,5 @@
 ---
-description: Automatically optimize your campaigns based on performance data. Adjust bids, pause low performers, reallocate budgets, and update ad schedules without manual intervention.
+description: "Automatically optimize your campaigns based on performance data. Adjust bids, pause low performers, reallocate budgets, and update ad schedules without manual intervention."
 ---
 
 # Campaign Auto Optimizer

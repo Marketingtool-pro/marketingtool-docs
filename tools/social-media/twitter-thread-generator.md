@@ -1,5 +1,5 @@
 ---
-description: Create engaging Twitter/X threads
+description: "Create engaging Twitter/X threads"
 ---
 
 # Twitter Thread Generator

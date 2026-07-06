@@ -1,5 +1,5 @@
 ---
-description: AI-powered advanced ad analyzer
+description: "AI-powered advanced ad analyzer"
 ---
 
 # Advanced Ad Analyzer

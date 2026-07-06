@@ -1,5 +1,5 @@
 ---
-description: Get a free, instant PPC audit report. Analyze account structure, wasted spend, keyword conflicts, and quality score issues without any cost or commitment.
+description: "Get a free, instant PPC audit report. Analyze account structure, wasted spend, keyword conflicts, and quality score issues without any cost or commitment."
 ---
 
 # Free PPC Audit Report

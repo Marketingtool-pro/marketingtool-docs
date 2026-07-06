@@ -1,5 +1,5 @@
 ---
-description: Calculate the right Google Ads budget for your business goals. Input your target CPA, conversion targets, and industry to get recommended daily and monthly budgets with ROI projections.
+description: "Calculate the right Google Ads budget for your business goals. Input your target CPA, conversion targets, and industry to get recommended daily and monthly budgets with ROI projections."
 ---
 
 # Google Ads Budget Calculator

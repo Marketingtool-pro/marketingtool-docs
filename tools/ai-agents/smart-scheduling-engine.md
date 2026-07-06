@@ -1,5 +1,5 @@
 ---
-description: AI-powered smart scheduling engine
+description: "AI-powered smart scheduling engine"
 ---
 
 # Smart Scheduling Engine

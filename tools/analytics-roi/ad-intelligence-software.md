@@ -1,5 +1,5 @@
 ---
-description: AI-powered ad intelligence software
+description: "AI-powered ad intelligence software"
 ---
 
 # Ad Intelligence Software

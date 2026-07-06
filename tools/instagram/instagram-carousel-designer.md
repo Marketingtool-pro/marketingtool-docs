@@ -1,5 +1,5 @@
 ---
-description: Design high-performing Instagram carousel posts that drive saves and shares. AI generates slide-by-slide content outlines with hook, value, and CTA structure optimized for the carousel format's unique engagement pattern.
+description: "Design high-performing Instagram carousel posts that drive saves and shares. AI generates slide-by-slide content outlines with hook, value, and CTA structure optimized for the carousel format's unique engagement pattern."
 ---
 
 # Instagram Carousel Designer

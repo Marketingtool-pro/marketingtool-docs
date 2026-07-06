@@ -1,5 +1,5 @@
 ---
-description: Recommends the optimal marketing app stack — email, SMS, analytics, reviews — for your Shopify store based on revenue tier and goals.
+description: "Recommends the optimal marketing app stack — email, SMS, analytics, reviews — for your Shopify store based on revenue tier and goals."
 ---
 
 # Shopify App Stack Advisor

@@ -1,5 +1,5 @@
 ---
-description: Predict when your Facebook and Instagram ad creatives will hit fatigue before performance drops. Monitor frequency, engagement decay, and CTR trends to know exactly when to refresh your ads.
+description: "Predict when your Facebook and Instagram ad creatives will hit fatigue before performance drops. Monitor frequency, engagement decay, and CTR trends to know exactly when to refresh your ads."
 ---
 
 # Creative Fatigue Predictor

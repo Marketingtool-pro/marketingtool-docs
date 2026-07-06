@@ -1,5 +1,5 @@
 ---
-description: Optimize ad placements across Facebook Feed, Stories, Reels, Marketplace, Messenger, Audience Network, and Instagram. Analyze placement-level performance to allocate budget where conversions happen.
+description: "Optimize ad placements across Facebook Feed, Stories, Reels, Marketplace, Messenger, Audience Network, and Instagram. Analyze placement-level performance to allocate budget where conversions happen."
 ---
 
 # Meta Placement Optimizer

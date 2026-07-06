@@ -1,5 +1,5 @@
 ---
-description: Analyze your ad group structure for keyword-to-ad relevance, theme tightness, and Quality Score impact. Find bloated ad groups that need splitting and dormant ones to pause.
+description: "Analyze your ad group structure for keyword-to-ad relevance, theme tightness, and Quality Score impact. Find bloated ad groups that need splitting and dormant ones to pause."
 ---
 
 # Ad Group Audit

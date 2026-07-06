@@ -1,5 +1,5 @@
 ---
-description: Everything you need to know to hit the ground running
+description: "Everything you need to know to hit the ground running"
 ---
 
 # Quick start

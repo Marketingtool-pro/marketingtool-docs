@@ -1,5 +1,5 @@
 ---
-description: Design high-converting lead magnets
+description: "Design high-converting lead magnets"
 ---
 
 # Lead Magnet Creator

@@ -1,5 +1,5 @@
 ---
-description: Launches shoppable ad campaigns across Facebook Shop, Instagram Shop, and Pinterest with integrated product catalog sync.
+description: "Launches shoppable ad campaigns across Facebook Shop, Instagram Shop, and Pinterest with integrated product catalog sync."
 ---
 
 # Social Commerce Ad Launcher

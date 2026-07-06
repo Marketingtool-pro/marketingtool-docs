@@ -1,5 +1,5 @@
 ---
-description: Grade your website's performance for Google Ads and organic search. Check page speed, SEO health, mobile experience, security, and conversion readiness with a comprehensive score.
+description: "Grade your website's performance for Google Ads and organic search. Check page speed, SEO health, mobile experience, security, and conversion readiness with a comprehensive score."
 ---
 
 # Website Grader

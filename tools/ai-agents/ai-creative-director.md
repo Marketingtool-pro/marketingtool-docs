@@ -1,5 +1,5 @@
 ---
-description: AI-powered creative director that analyzes your brand guidelines, audience preferences, and campaign objectives to generate strategic creative briefs and visual direction for Facebook and Instagram ads.
+description: "AI-powered creative director that analyzes your brand guidelines, audience preferences, and campaign objectives to generate strategic creative briefs and visual direction for Facebook and Instagram ads."
 ---
 
 # Ai Creative Director

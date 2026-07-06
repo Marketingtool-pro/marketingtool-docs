@@ -1,5 +1,5 @@
 ---
-description: AI-powered ads rotation agent
+description: "AI-powered ads rotation agent"
 ---
 
 # Ads Rotation Agent

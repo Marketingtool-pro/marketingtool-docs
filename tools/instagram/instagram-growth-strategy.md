@@ -1,5 +1,5 @@
 ---
-description: Get a personalized Instagram growth strategy based on your niche, current metrics, and goals. AI analyzes your account and generates a 30/60/90 day action plan for followers, engagement, and monetization.
+description: "Get a personalized Instagram growth strategy based on your niche, current metrics, and goals. AI analyzes your account and generates a 30/60/90 day action plan for followers, engagement, and monetization."
 ---
 
 # Instagram Growth Strategy

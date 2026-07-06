@@ -1,5 +1,5 @@
 ---
-description: AI-powered audit of your Shopify store covering UX, page speed, mobile optimization, trust signals, and conversion bottlenecks.
+description: "AI-powered audit of your Shopify store covering UX, page speed, mobile optimization, trust signals, and conversion bottlenecks."
 ---
 
 # Shopify Store Audit

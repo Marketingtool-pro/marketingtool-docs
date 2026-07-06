@@ -1,5 +1,5 @@
 ---
-description: AI-powered cart recovery ads
+description: "AI-powered cart recovery ads"
 ---
 
 # Cart Recovery Ads

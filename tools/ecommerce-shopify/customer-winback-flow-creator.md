@@ -1,5 +1,5 @@
 ---
-description: Builds AI-powered re-engagement campaigns targeting lapsed customers with personalized incentives based on purchase history.
+description: "Builds AI-powered re-engagement campaigns targeting lapsed customers with personalized incentives based on purchase history."
 ---
 
 # Customer Winback Flow Creator

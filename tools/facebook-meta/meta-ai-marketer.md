@@ -1,5 +1,5 @@
 ---
-description: Your personal AI advertising consultant that audits Meta ad accounts 24/7, delivers data-driven optimization recommendations, and prepares campaigns for one-click launch — eliminating costly manual mistakes.
+description: "Your personal AI advertising consultant that audits Meta ad accounts 24/7, delivers data-driven optimization recommendations, and prepares campaigns for one-click launch — eliminating costly manual mistakes."
 ---
 
 # Meta AI Marketer

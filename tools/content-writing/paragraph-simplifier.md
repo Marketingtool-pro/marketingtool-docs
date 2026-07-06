@@ -1,5 +1,5 @@
 ---
-description: AI-powered paragraph simplifier
+description: "AI-powered paragraph simplifier"
 ---
 
 # Paragraph Simplifier

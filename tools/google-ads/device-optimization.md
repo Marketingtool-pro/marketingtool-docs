@@ -1,5 +1,5 @@
 ---
-description: Optimize your Google Ads performance by device type. Analyze mobile vs desktop vs tablet performance and set device bid adjustments to maximize conversions on each platform.
+description: "Optimize your Google Ads performance by device type. Analyze mobile vs desktop vs tablet performance and set device bid adjustments to maximize conversions on each platform."
 ---
 
 # Device Optimization

@@ -1,5 +1,5 @@
 ---
-description: AI-powered long tail keyword generator
+description: "AI-powered long tail keyword generator"
 ---
 
 # Long Tail Keyword Generator

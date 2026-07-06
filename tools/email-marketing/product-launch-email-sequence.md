@@ -1,5 +1,5 @@
 ---
-description: Create launch email sequences
+description: "Create launch email sequences"
 ---
 
 # Product Launch Email Sequence

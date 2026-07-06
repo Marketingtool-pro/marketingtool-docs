@@ -1,5 +1,5 @@
 ---
-description: Master Dynamic Keyword Insertion (DKI) in Google Ads. Generate DKI-enabled ad copy, test fallback text, and learn when DKI helps vs hurts your campaign performance.
+description: "Master Dynamic Keyword Insertion (DKI) in Google Ads. Generate DKI-enabled ad copy, test fallback text, and learn when DKI helps vs hurts your campaign performance."
 ---
 
 # Dynamic Keyword Insertion Tool

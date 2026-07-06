@@ -1,5 +1,5 @@
 ---
-description: AI-powered faq schema writer
+description: "AI-powered faq schema writer"
 ---
 
 # Faq Schema Writer

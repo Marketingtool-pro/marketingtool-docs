@@ -1,5 +1,5 @@
 ---
-description: Smart bidding tools with faster insights for Google Ads. Optimize Smart Bidding strategies, analyze conversion lag, and fine-tune Target CPA/ROAS for maximum efficiency.
+description: "Smart bidding tools with faster insights for Google Ads. Optimize Smart Bidding strategies, analyze conversion lag, and fine-tune Target CPA/ROAS for maximum efficiency."
 ---
 
 # Smart Bidding Optimizer

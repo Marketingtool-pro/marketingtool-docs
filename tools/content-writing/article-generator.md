@@ -1,5 +1,5 @@
 ---
-description: AI-powered article generator
+description: "AI-powered article generator"
 ---
 
 # Article Generator

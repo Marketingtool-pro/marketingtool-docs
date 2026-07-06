@@ -1,5 +1,5 @@
 ---
-description: Run statistically valid A/B tests on your Google Ads with RSA asset performance tracking, generative AI for ad copy, and multi-metric analysis. Spend less time analyzing and more time optimizing.
+description: "Run statistically valid A/B tests on your Google Ads with RSA asset performance tracking, generative AI for ad copy, and multi-metric analysis. Spend less time analyzing and more time optimizing."
 ---
 
 # Ad Testing & Optimization

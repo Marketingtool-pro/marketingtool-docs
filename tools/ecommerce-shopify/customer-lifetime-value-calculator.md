@@ -1,5 +1,5 @@
 ---
-description: Calculates and predicts CLV per customer segment using purchase history, then recommends retention strategies to maximize it.
+description: "Calculates and predicts CLV per customer segment using purchase history, then recommends retention strategies to maximize it."
 ---
 
 # Customer Lifetime Value Calculator

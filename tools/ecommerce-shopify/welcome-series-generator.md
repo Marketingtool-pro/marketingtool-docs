@@ -1,5 +1,5 @@
 ---
-description: Creates a multi-step automated welcome email series for new subscribers with personalized content and progressive profiling.
+description: "Creates a multi-step automated welcome email series for new subscribers with personalized content and progressive profiling."
 ---
 
 # Welcome Series Generator

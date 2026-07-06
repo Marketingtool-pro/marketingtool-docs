@@ -1,5 +1,5 @@
 ---
-description: Create scroll-stopping Instagram captions with AI that understands your brand voice, audience psychology, and platform best practices. Generate captions for Feed posts, Reels, Stories, and carousels with optimized hashtags.
+description: "Create scroll-stopping Instagram captions with AI that understands your brand voice, audience psychology, and platform best practices. Generate captions for Feed posts, Reels, Stories, and carousels with optimized hashtags."
 ---
 
 # Instagram Caption Generator

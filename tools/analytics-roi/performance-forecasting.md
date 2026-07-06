@@ -1,5 +1,5 @@
 ---
-description: AI-powered performance forecasting
+description: "AI-powered performance forecasting"
 ---
 
 # Performance Forecasting

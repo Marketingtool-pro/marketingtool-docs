@@ -1,5 +1,5 @@
 ---
-description: Optimize your ad schedule by hour and day of week. Analyze conversion patterns to increase bids during peak hours, reduce bids during dead zones, and maximize ROI around the clock.
+description: "Optimize your ad schedule by hour and day of week. Analyze conversion patterns to increase bids during peak hours, reduce bids during dead zones, and maximize ROI around the clock."
 ---
 
 # Dayparting Optimizer

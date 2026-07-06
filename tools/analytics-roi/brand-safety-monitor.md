@@ -1,5 +1,5 @@
 ---
-description: AI-powered brand safety monitor
+description: "AI-powered brand safety monitor"
 ---
 
 # Brand Safety Monitor

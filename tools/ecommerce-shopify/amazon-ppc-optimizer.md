@@ -1,5 +1,5 @@
 ---
-description: Optimizes Amazon Sponsored Products and Sponsored Brands campaigns with AI bid management and keyword harvesting.
+description: "Optimizes Amazon Sponsored Products and Sponsored Brands campaigns with AI bid management and keyword harvesting."
 ---
 
 # Amazon PPC Optimizer

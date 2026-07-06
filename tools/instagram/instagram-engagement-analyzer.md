@@ -1,5 +1,5 @@
 ---
-description: Deep-dive analytics for your Instagram engagement — track likes, comments, saves, shares, story interactions, and Reel plays. Identify what content types, posting times, and hashtags drive the most meaningful engagement.
+description: "Deep-dive analytics for your Instagram engagement — track likes, comments, saves, shares, story interactions, and Reel plays. Identify what content types, posting times, and hashtags drive the most meaningful engagement."
 ---
 
 # Instagram Engagement Analyzer

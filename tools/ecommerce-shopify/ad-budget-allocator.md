@@ -1,5 +1,5 @@
 ---
-description: Uses AI to dynamically allocate ad budget across Meta, Google, TikTok, and Pinterest based on real-time ROAS performance data.
+description: "Uses AI to dynamically allocate ad budget across Meta, Google, TikTok, and Pinterest based on real-time ROAS performance data."
 ---
 
 # Ad Budget Allocator

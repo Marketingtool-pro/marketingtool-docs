@@ -1,5 +1,5 @@
 ---
-description: Tracks CAC by channel and campaign, then uses AI to recommend the lowest-cost acquisition paths for your store.
+description: "Tracks CAC by channel and campaign, then uses AI to recommend the lowest-cost acquisition paths for your store."
 ---
 
 # Customer Acquisition Cost Optimizer

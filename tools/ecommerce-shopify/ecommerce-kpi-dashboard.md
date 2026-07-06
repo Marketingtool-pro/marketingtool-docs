@@ -1,5 +1,5 @@
 ---
-description: AI-powered dashboard tracking your top 20 ecommerce KPIs — AOV, CLV, ROAS, CPC, bounce rate — with automated alerts and trend analysis.
+description: "AI-powered dashboard tracking your top 20 ecommerce KPIs — AOV, CLV, ROAS, CPC, bounce rate — with automated alerts and trend analysis."
 ---
 
 # Ecommerce KPI Dashboard

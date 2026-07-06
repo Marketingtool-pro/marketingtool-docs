@@ -1,5 +1,5 @@
 ---
-description: Centralized Facebook Ads Manager alternative with bulk editing, AI bidding, performance trend tracking, and unified campaign oversight that goes beyond native Meta tools.
+description: "Centralized Facebook Ads Manager alternative with bulk editing, AI bidding, performance trend tracking, and unified campaign oversight that goes beyond native Meta tools."
 ---
 
 # Facebook Ads Manager

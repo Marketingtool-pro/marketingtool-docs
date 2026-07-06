@@ -1,5 +1,5 @@
 ---
-description: Use Google Trends data to inform your PPC strategy. Identify seasonal demand patterns, emerging search trends, and geographic opportunities to time your campaigns perfectly.
+description: "Use Google Trends data to inform your PPC strategy. Identify seasonal demand patterns, emerging search trends, and geographic opportunities to time your campaigns perfectly."
 ---
 
 # Google Trends for PPC

@@ -1,5 +1,5 @@
 ---
-description: Profile, preferences, and security
+description: "Profile, preferences, and security"
 ---
 
 # Account settings

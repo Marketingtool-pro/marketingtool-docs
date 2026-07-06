@@ -1,5 +1,5 @@
 ---
-description: Write professional webinar scripts
+description: "Write professional webinar scripts"
 ---
 
 # Webinar Script Writer

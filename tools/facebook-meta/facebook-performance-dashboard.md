@@ -1,5 +1,5 @@
 ---
-description: Real-time Facebook performance dashboard that consolidates campaign metrics, audience insights, and creative analytics into live, always-updated visualizations — replacing manual spreadsheets entirely.
+description: "Real-time Facebook performance dashboard that consolidates campaign metrics, audience insights, and creative analytics into live, always-updated visualizations — replacing manual spreadsheets entirely."
 ---
 
 # Facebook Performance Dashboard

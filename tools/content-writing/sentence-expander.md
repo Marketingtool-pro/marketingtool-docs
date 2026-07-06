@@ -1,5 +1,5 @@
 ---
-description: AI-powered sentence expander
+description: "AI-powered sentence expander"
 ---
 
 # Sentence Expander

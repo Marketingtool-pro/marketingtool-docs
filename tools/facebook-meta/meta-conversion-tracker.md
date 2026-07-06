@@ -1,5 +1,5 @@
 ---
-description: Comprehensive Meta conversion tracking setup and optimization tool. Configure Pixel events, Conversions API, and custom conversions with proper deduplication for maximum attribution accuracy.
+description: "Comprehensive Meta conversion tracking setup and optimization tool. Configure Pixel events, Conversions API, and custom conversions with proper deduplication for maximum attribution accuracy."
 ---
 
 # Meta Conversion Tracker

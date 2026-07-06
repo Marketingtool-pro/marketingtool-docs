@@ -1,5 +1,5 @@
 ---
-description: AI-powered marketing kpi dashboard
+description: "AI-powered marketing kpi dashboard"
 ---
 
 # Marketing Kpi Dashboard

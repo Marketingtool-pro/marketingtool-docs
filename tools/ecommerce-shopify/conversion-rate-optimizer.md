@@ -1,5 +1,5 @@
 ---
-description: Analyzes your store's conversion funnel and generates AI recommendations to improve conversion rate and mobile checkout flow.
+description: "Analyzes your store's conversion funnel and generates AI recommendations to improve conversion rate and mobile checkout flow."
 ---
 
 # Conversion Rate Optimizer

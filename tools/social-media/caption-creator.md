@@ -1,5 +1,5 @@
 ---
-description: Generate engaging social media captions for any platform — Instagram, Facebook, LinkedIn, TikTok, and Twitter. AI adapts tone, length, hashtags, and CTAs to each platform's best practices automatically.
+description: "Generate engaging social media captions for any platform — Instagram, Facebook, LinkedIn, TikTok, and Twitter. AI adapts tone, length, hashtags, and CTAs to each platform's best practices automatically."
 ---
 
 # Caption Creator

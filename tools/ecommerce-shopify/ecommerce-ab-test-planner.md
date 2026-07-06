@@ -1,5 +1,5 @@
 ---
-description: Plans and generates A/B test hypotheses for product pages, ads, and emails with statistical significance calculators built in.
+description: "Plans and generates A/B test hypotheses for product pages, ads, and emails with statistical significance calculators built in."
 ---
 
 # Ecommerce A/B Test Planner

@@ -1,5 +1,5 @@
 ---
-description: AI-powered inventory based ad manager
+description: "AI-powered inventory based ad manager"
 ---
 
 # Inventory Based Ad Manager

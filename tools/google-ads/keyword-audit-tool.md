@@ -1,5 +1,5 @@
 ---
-description: Audit your keyword portfolio for wasted spend, cannibalization, and missed opportunities. Find keywords with high cost but no conversions, overlapping keywords, and Quality Score issues.
+description: "Audit your keyword portfolio for wasted spend, cannibalization, and missed opportunities. Find keywords with high cost but no conversions, overlapping keywords, and Quality Score issues."
 ---
 
 # Keyword Audit Tool

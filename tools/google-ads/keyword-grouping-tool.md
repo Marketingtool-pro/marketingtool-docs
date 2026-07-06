@@ -1,5 +1,5 @@
 ---
-description: Automatically group keywords into tightly themed ad groups. Build SKAG or STAG structures that maximize Quality Score and ad relevance for better CPC and conversion rates.
+description: "Automatically group keywords into tightly themed ad groups. Build SKAG or STAG structures that maximize Quality Score and ad relevance for better CPC and conversion rates."
 ---
 
 # Keyword Grouping Tool

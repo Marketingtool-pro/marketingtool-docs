@@ -1,5 +1,5 @@
 ---
-description: AI-powered keyword research tool
+description: "AI-powered keyword research tool"
 ---
 
 # Keyword Research Tool

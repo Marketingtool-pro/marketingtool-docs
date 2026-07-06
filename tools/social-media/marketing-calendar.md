@@ -1,5 +1,5 @@
 ---
-description: AI-powered social media marketing calendar that plans content themes, posting schedules, campaign launches, and promotional events across all your social channels with drag-and-drop simplicity.
+description: "AI-powered social media marketing calendar that plans content themes, posting schedules, campaign launches, and promotional events across all your social channels with drag-and-drop simplicity."
 ---
 
 # Marketing Calendar

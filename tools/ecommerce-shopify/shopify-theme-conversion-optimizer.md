@@ -1,5 +1,5 @@
 ---
-description: Analyzes your Shopify theme for conversion killers and generates specific CSS/Liquid code fixes to boost checkout completion.
+description: "Analyzes your Shopify theme for conversion killers and generates specific CSS/Liquid code fixes to boost checkout completion."
 ---
 
 # Shopify Theme Conversion Optimizer

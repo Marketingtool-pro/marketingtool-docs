@@ -1,5 +1,5 @@
 ---
-description: AI-powered ads launcher
+description: "AI-powered ads launcher"
 ---
 
 # Ads Launcher

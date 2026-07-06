@@ -1,5 +1,5 @@
 ---
-description: AI-powered paid social media campaign manager that automates ad creation, audience targeting, budget allocation, and performance optimization across Instagram, Facebook, TikTok, and LinkedIn simultaneously.
+description: "AI-powered paid social media campaign manager that automates ad creation, audience targeting, budget allocation, and performance optimization across Instagram, Facebook, TikTok, and LinkedIn simultaneously."
 ---
 
 # Ai Paid Social Manager

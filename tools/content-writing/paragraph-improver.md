@@ -1,5 +1,5 @@
 ---
-description: AI-powered paragraph improver
+description: "AI-powered paragraph improver"
 ---
 
 # Paragraph Improver

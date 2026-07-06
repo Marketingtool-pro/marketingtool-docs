@@ -1,5 +1,5 @@
 ---
-description: Uses AI to recommend optimal pricing strategies based on competitor pricing, demand signals, margins, and inventory levels.
+description: "Uses AI to recommend optimal pricing strategies based on competitor pricing, demand signals, margins, and inventory levels."
 ---
 
 # Dynamic Pricing Optimizer

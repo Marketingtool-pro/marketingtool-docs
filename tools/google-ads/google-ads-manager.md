@@ -1,5 +1,5 @@
 ---
-description: All-in-one Google Ads campaign management suite. Monitor performance, manage bids, optimize ad copy, and control budgets across Search, Display, Shopping, and Performance Max campaigns.
+description: "All-in-one Google Ads campaign management suite. Monitor performance, manage bids, optimize ad copy, and control budgets across Search, Display, Shopping, and Performance Max campaigns."
 ---
 
 # Google Ads Campaign Manager

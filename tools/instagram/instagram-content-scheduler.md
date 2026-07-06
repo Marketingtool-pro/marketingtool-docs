@@ -1,5 +1,5 @@
 ---
-description: Plan and schedule your entire Instagram content calendar weeks in advance. Visual grid preview shows how your feed will look, with optimal posting times calculated from your audience analytics.
+description: "Plan and schedule your entire Instagram content calendar weeks in advance. Visual grid preview shows how your feed will look, with optimal posting times calculated from your audience analytics."
 ---
 
 # Instagram Content Scheduler

@@ -1,5 +1,5 @@
 ---
-description: Create stunning Pinterest ad content
+description: "Create stunning Pinterest ad content"
 ---
 
 # Pinterest Ad Generator

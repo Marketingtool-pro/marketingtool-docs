@@ -1,5 +1,5 @@
 ---
-description: Generate complete social media posts with AI — captions, hashtags, emoji placement, and call-to-actions optimized for each platform. Creates Instagram carousels, TikTok scripts, LinkedIn articles, and Twitter threads.
+description: "Generate complete social media posts with AI — captions, hashtags, emoji placement, and call-to-actions optimized for each platform. Creates Instagram carousels, TikTok scripts, LinkedIn articles, and Twitter threads."
 ---
 
 # Social Media Post Generator

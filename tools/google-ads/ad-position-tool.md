@@ -1,5 +1,5 @@
 ---
-description: Analyze your ad position data to find the sweet spot between visibility and cost. Understand how position impacts CTR, CPA, and conversion rate for each campaign.
+description: "Analyze your ad position data to find the sweet spot between visibility and cost. Understand how position impacts CTR, CPA, and conversion rate for each campaign."
 ---
 
 # Ad Position Analyzer

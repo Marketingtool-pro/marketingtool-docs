@@ -1,5 +1,5 @@
 ---
-description: Next-generation Facebook ads management with unified performance dashboards, bulk asset editing, AI-powered bidding optimization, and real-time ROAS trend tracking in one centralized platform.
+description: "Next-generation Facebook ads management with unified performance dashboards, bulk asset editing, AI-powered bidding optimization, and real-time ROAS trend tracking in one centralized platform."
 ---
 
 # Ads Manager 2.0

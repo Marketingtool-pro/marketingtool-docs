@@ -1,5 +1,5 @@
 ---
-description: AI-powered paragraph expander
+description: "AI-powered paragraph expander"
 ---
 
 # Paragraph Expander

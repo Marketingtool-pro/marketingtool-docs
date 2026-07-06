@@ -1,5 +1,5 @@
 ---
-description: How subscriptions work on each platform
+description: "How subscriptions work on each platform"
 ---
 
 # Subscriptions

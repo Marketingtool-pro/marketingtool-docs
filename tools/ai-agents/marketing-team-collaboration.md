@@ -1,5 +1,5 @@
 ---
-description: AI-powered marketing team collaboration
+description: "AI-powered marketing team collaboration"
 ---
 
 # Marketing Team Collaboration

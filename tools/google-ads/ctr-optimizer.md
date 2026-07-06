@@ -1,5 +1,5 @@
 ---
-description: Improve your Google Ads click-through rates with data-driven recommendations. Analyze ad copy, extensions, and positioning to find exactly what's suppressing your CTR.
+description: "Improve your Google Ads click-through rates with data-driven recommendations. Analyze ad copy, extensions, and positioning to find exactly what's suppressing your CTR."
 ---
 
 # CTR Optimization Tool

@@ -1,5 +1,5 @@
 ---
-description: Tracks your MER (total revenue / total ad spend) with AI-driven insights on how to improve overall marketing efficiency.
+description: "Tracks your MER (total revenue / total ad spend) with AI-driven insights on how to improve overall marketing efficiency."
 ---
 
 # Marketing Efficiency Ratio Tracker

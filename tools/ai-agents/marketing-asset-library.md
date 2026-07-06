@@ -1,5 +1,5 @@
 ---
-description: AI-powered marketing asset library
+description: "AI-powered marketing asset library"
 ---
 
 # Marketing Asset Library

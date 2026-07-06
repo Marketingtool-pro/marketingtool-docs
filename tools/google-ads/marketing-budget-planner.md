@@ -1,5 +1,5 @@
 ---
-description: Plan your marketing budget across Google Ads, Meta, and other channels. Get data-driven allocation recommendations based on your goals, industry benchmarks, and historical performance.
+description: "Plan your marketing budget across Google Ads, Meta, and other channels. Get data-driven allocation recommendations based on your goals, industry benchmarks, and historical performance."
 ---
 
 # Marketing Budget Planner

@@ -1,5 +1,5 @@
 ---
-description: Optimizes product listings and descriptions for voice search queries, targeting conversational keywords that voice shoppers use.
+description: "Optimizes product listings and descriptions for voice search queries, targeting conversational keywords that voice shoppers use."
 ---
 
 # Voice Search Product Optimizer

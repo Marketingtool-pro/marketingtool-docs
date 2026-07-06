@@ -1,5 +1,5 @@
 ---
-description: AI-powered ai media buyer
+description: "AI-powered ai media buyer"
 ---
 
 # Ai Media Buyer

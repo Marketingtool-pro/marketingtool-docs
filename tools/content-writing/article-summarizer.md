@@ -1,5 +1,5 @@
 ---
-description: AI-powered article summarizer
+description: "AI-powered article summarizer"
 ---
 
 # Article Summarizer

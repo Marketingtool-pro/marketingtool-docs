@@ -1,5 +1,5 @@
 ---
-description: A smarter alternative to Google Ads Editor for bulk campaign management. Make mass edits, create campaigns from CSV, and manage RSAs across thousands of ad groups simultaneously.
+description: "A smarter alternative to Google Ads Editor for bulk campaign management. Make mass edits, create campaigns from CSV, and manage RSAs across thousands of ad groups simultaneously."
 ---
 
 # Google Ads Editor Alternative

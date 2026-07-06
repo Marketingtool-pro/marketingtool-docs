@@ -1,5 +1,5 @@
 ---
-description: Write compelling YouTube ad scripts
+description: "Write compelling YouTube ad scripts"
 ---
 
 # Youtube Ad Script Writer

@@ -1,5 +1,5 @@
 ---
-description: Intelligent Meta ad budget optimizer that automatically shifts spend from underperforming campaigns to top performers in real-time. Maximize ROAS while respecting your daily and lifetime budget limits.
+description: "Intelligent Meta ad budget optimizer that automatically shifts spend from underperforming campaigns to top performers in real-time. Maximize ROAS while respecting your daily and lifetime budget limits."
 ---
 
 # Meta Budget Optimizer

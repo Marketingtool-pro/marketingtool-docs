@@ -1,5 +1,5 @@
 ---
-description: AI-powered client reporting portal
+description: "AI-powered client reporting portal"
 ---
 
 # Client Reporting Portal

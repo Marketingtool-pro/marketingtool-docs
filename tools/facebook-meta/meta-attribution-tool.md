@@ -1,5 +1,5 @@
 ---
-description: Multi-touch attribution modeling for Meta ads that tracks the full customer journey from first ad impression to final purchase. Understand which campaigns, ad sets, and creatives truly drive revenue.
+description: "Multi-touch attribution modeling for Meta ads that tracks the full customer journey from first ad impression to final purchase. Understand which campaigns, ad sets, and creatives truly drive revenue."
 ---
 
 # Meta Attribution Tool

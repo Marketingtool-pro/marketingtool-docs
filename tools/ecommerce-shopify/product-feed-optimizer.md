@@ -1,5 +1,5 @@
 ---
-description: AI-powered product feed optimizer
+description: "AI-powered product feed optimizer"
 ---
 
 # Product Feed Optimizer

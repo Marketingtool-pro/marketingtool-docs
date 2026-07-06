@@ -1,5 +1,5 @@
 ---
-description: AI-powered meta description generator
+description: "AI-powered meta description generator"
 ---
 
 # Meta Description Generator

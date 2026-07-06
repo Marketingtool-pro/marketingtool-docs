@@ -1,5 +1,5 @@
 ---
-description: Schedule social media posts across Instagram, Facebook, TikTok, LinkedIn, and Twitter with AI-powered optimal timing. Auto-publish at the exact moments your audience is most active for maximum reach.
+description: "Schedule social media posts across Instagram, Facebook, TikTok, LinkedIn, and Twitter with AI-powered optimal timing. Auto-publish at the exact moments your audience is most active for maximum reach."
 ---
 
 # Post Scheduler

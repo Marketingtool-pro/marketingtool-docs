@@ -1,5 +1,5 @@
 ---
-description: Build a complete Instagram hashtag strategy with researched sets organized by size, niche relevance, and content type. Get 5 rotating hashtag groups to maximize reach without risking shadowban.
+description: "Build a complete Instagram hashtag strategy with researched sets organized by size, niche relevance, and content type. Get 5 rotating hashtag groups to maximize reach without risking shadowban."
 ---
 
 # Instagram Hashtag Strategy

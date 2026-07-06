@@ -1,5 +1,5 @@
 ---
-description: Access 100+ ready-to-deploy Facebook audiences covering your entire sales funnel. Launch AI-powered preset audiences, Super Lookalikes, and data-driven demographics in just a few clicks.
+description: "Access 100+ ready-to-deploy Facebook audiences covering your entire sales funnel. Launch AI-powered preset audiences, Super Lookalikes, and data-driven demographics in just a few clicks."
 ---
 
 # Meta Audience Launcher

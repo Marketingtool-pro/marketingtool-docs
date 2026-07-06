@@ -1,5 +1,5 @@
 ---
-description: Grow on Instagram with AI captions, Reels optimization, scheduling, influencer discovery, and shopping ads.
+description: "Grow on Instagram with AI captions, Reels optimization, scheduling, influencer discovery, and shopping ads."
 ---
 
 # Instagram

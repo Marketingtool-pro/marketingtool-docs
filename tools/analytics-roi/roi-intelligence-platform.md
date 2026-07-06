@@ -1,5 +1,5 @@
 ---
-description: AI-powered roi intelligence platform
+description: "AI-powered roi intelligence platform"
 ---
 
 # Roi Intelligence Platform

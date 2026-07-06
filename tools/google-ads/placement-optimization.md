@@ -1,5 +1,5 @@
 ---
-description: Optimize your Display and YouTube ad placements for maximum performance. Identify top-converting sites, exclude poor performers, and build custom placement lists for targeted reach.
+description: "Optimize your Display and YouTube ad placements for maximum performance. Identify top-converting sites, exclude poor performers, and build custom placement lists for targeted reach."
 ---
 
 # Placement Optimization

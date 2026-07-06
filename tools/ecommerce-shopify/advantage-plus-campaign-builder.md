@@ -1,5 +1,5 @@
 ---
-description: Sets up and optimizes Meta Advantage+ Shopping Campaigns with AI-driven audience targeting and budget allocation.
+description: "Sets up and optimizes Meta Advantage+ Shopping Campaigns with AI-driven audience targeting and budget allocation."
 ---
 
 # Advantage Plus Campaign Builder

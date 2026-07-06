@@ -1,5 +1,5 @@
 ---
-description: Technical SEO audit for your Google Ads landing pages. Check crawlability, page speed, structured data, mobile usability, and Core Web Vitals that impact Quality Score and organic ranking.
+description: "Technical SEO audit for your Google Ads landing pages. Check crawlability, page speed, structured data, mobile usability, and Core Web Vitals that impact Quality Score and organic ranking."
 ---
 
 # Seo Audit Tool

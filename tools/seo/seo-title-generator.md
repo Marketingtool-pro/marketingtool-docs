@@ -1,5 +1,5 @@
 ---
-description: AI-powered seo title generator
+description: "AI-powered seo title generator"
 ---
 
 # Seo Title Generator

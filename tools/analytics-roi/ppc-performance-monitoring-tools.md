@@ -1,5 +1,5 @@
 ---
-description: Stay informed on big trends and small details. Centralized dashboard to monitor all PPC accounts with KPI tracking, anomaly detection, and trend analysis.
+description: "Stay informed on big trends and small details. Centralized dashboard to monitor all PPC accounts with KPI tracking, anomaly detection, and trend analysis."
 ---
 
 # Performance Monitoring Dashboard

@@ -1,5 +1,5 @@
 ---
-description: Get data-driven bid recommendations for every keyword in your account. Based on historical conversion data, competitive landscape, and your target CPA to suggest optimal max CPC bids.
+description: "Get data-driven bid recommendations for every keyword in your account. Based on historical conversion data, competitive landscape, and your target CPA to suggest optimal max CPC bids."
 ---
 
 # Bid Suggestions Tool

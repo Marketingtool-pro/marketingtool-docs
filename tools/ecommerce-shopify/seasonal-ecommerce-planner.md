@@ -1,5 +1,5 @@
 ---
-description: AI-powered seasonal ecommerce planner
+description: "AI-powered seasonal ecommerce planner"
 ---
 
 # Seasonal Ecommerce Planner

@@ -1,5 +1,5 @@
 ---
-description: Optimize your Google Ads audience targeting. Analyze audience segment performance, find high-value custom segments, and refine in-market and affinity audiences for better ROAS.
+description: "Optimize your Google Ads audience targeting. Analyze audience segment performance, find high-value custom segments, and refine in-market and affinity audiences for better ROAS."
 ---
 
 # Audience Optimization Tool

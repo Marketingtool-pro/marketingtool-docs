@@ -1,5 +1,5 @@
 ---
-description: Creates multi-stage retargeting campaigns across platforms, segmenting audiences by funnel stage — viewed, added-to-cart, abandoned checkout.
+description: "Creates multi-stage retargeting campaigns across platforms, segmenting audiences by funnel stage — viewed, added-to-cart, abandoned checkout."
 ---
 
 # Retargeting Funnel Builder

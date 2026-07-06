@@ -1,5 +1,5 @@
 ---
-description: Quick check of Quality Score health for any keyword or ad group. Instantly see which QS component (CTR, relevance, landing page) is dragging performance down and get targeted fixes.
+description: "Quick check of Quality Score health for any keyword or ad group. Instantly see which QS component (CTR, relevance, landing page) is dragging performance down and get targeted fixes."
 ---
 
 # Quality Score Checker

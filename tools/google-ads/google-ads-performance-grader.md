@@ -1,5 +1,5 @@
 ---
-description: Grade your Google Ads account performance across 10 key areas: Quality Score, click-through rate, impression share, wasted spend, long-tail keywords, and more. Get a letter grade with fixes.
+description: "Grade your Google Ads account performance across 10 key areas: Quality Score, click-through rate, impression share, wasted spend, long-tail keywords, and more. Get a letter grade with fixes."
 ---
 
 # Google Ads Performance Grader

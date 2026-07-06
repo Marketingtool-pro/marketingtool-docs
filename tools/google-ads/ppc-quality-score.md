@@ -1,5 +1,5 @@
 ---
-description: Impression-weighted aggregate Quality Score insights. Systematic approach to improving QS across your account with historical trend analysis and component-level action plans.
+description: "Impression-weighted aggregate Quality Score insights. Systematic approach to improving QS across your account with historical trend analysis and component-level action plans."
 ---
 
 # Quality Score Improver

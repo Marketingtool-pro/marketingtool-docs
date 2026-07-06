@@ -1,5 +1,5 @@
 ---
-description: AI-powered youtube title generator
+description: "AI-powered youtube title generator"
 ---
 
 # Youtube Title Generator

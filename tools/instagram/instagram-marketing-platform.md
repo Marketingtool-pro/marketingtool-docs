@@ -1,5 +1,5 @@
 ---
-description: End-to-end Instagram marketing platform for growth, engagement, and monetization. Combines content strategy, ad management, audience insights, shopping integration, and performance analytics into one workflow.
+description: "End-to-end Instagram marketing platform for growth, engagement, and monetization. Combines content strategy, ad management, audience insights, shopping integration, and performance analytics into one workflow."
 ---
 
 # Instagram Marketing Platform

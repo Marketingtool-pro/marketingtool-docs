@@ -1,5 +1,5 @@
 ---
-description: AI-powered microsoft ads grader
+description: "AI-powered microsoft ads grader"
 ---
 
 # Microsoft Ads Grader

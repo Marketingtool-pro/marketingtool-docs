@@ -1,5 +1,5 @@
 ---
-description: Boost efficiency with smart tools and AI. RSA asset tracking, generative AI for ad copy, and systematic A/B testing to find the highest-converting ad variations.
+description: "Boost efficiency with smart tools and AI. RSA asset tracking, generative AI for ad copy, and systematic A/B testing to find the highest-converting ad variations."
 ---
 
 # Ad Management Suite

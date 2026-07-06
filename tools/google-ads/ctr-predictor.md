@@ -1,5 +1,5 @@
 ---
-description: Predict click-through rates for your Google Ads before going live. Input ad copy, keywords, and position data to estimate CTR and identify improvements to boost clicks.
+description: "Predict click-through rates for your Google Ads before going live. Input ad copy, keywords, and position data to estimate CTR and identify improvements to boost clicks."
 ---
 
 # Ctr Predictor

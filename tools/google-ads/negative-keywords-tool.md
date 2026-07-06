@@ -1,5 +1,5 @@
 ---
-description: Maximize your budget by preventing wasted ad spend. Discover irrelevant keywords proactively, review search term reports reactively, and build comprehensive negative keyword lists at account, campaign, or ad group level.
+description: "Maximize your budget by preventing wasted ad spend. Discover irrelevant keywords proactively, review search term reports reactively, and build comprehensive negative keyword lists at account, campaign, or ad group level."
 ---
 
 # Negative Keyword Builder

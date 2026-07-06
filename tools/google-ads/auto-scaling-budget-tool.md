@@ -1,5 +1,5 @@
 ---
-description: Automatically scale budgets based on campaign performance. Increase spend on high-ROAS campaigns and reduce spend on underperformers with configurable rules and safety limits.
+description: "Automatically scale budgets based on campaign performance. Increase spend on high-ROAS campaigns and reduce spend on underperformers with configurable rules and safety limits."
 ---
 
 # Auto Scaling Budget Tool

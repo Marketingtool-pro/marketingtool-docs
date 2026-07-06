@@ -1,5 +1,5 @@
 ---
-description: Orchestrate complex multi-campaign Facebook ad strategies from a single command center. Coordinate budget allocation, audience distribution, and creative rotation across all active campaigns.
+description: "Orchestrate complex multi-campaign Facebook ad strategies from a single command center. Coordinate budget allocation, audience distribution, and creative rotation across all active campaigns."
 ---
 
 # Facebook Ads Orchestrator

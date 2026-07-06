@@ -1,5 +1,5 @@
 ---
-description: Complete Instagram management toolkit — content creation, scheduling, analytics, comment moderation, DM management, and competitor tracking all in one unified dashboard for brands and agencies.
+description: "Complete Instagram management toolkit — content creation, scheduling, analytics, comment moderation, DM management, and competitor tracking all in one unified dashboard for brands and agencies."
 ---
 
 # Instagram Management Tools

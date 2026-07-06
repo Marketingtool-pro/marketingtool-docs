@@ -1,5 +1,5 @@
 ---
-description: Generate high-converting affiliate marketing copy
+description: "Generate high-converting affiliate marketing copy"
 ---
 
 # Affiliate Marketing Copy

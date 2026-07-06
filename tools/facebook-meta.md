@@ -1,5 +1,5 @@
 ---
-description: Manage Meta campaigns end to end: audiences, budgets, creatives, comments, and attribution.
+description: "Manage Meta campaigns end to end: audiences, budgets, creatives, comments, and attribution."
 ---
 
 # Facebook & Meta Ads

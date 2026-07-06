@@ -1,5 +1,5 @@
 ---
-description: Comprehensive Facebook ad automation and optimization software that combines AI bidding, audience management, creative rotation, and budget allocation into one unified platform for hands-free campaign management.
+description: "Comprehensive Facebook ad automation and optimization software that combines AI bidding, audience management, creative rotation, and budget allocation into one unified platform for hands-free campaign management."
 ---
 
 # Meta Full Automation Suite

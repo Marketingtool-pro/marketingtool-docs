@@ -1,5 +1,5 @@
 ---
-description: Comprehensive creative intelligence platform that uses computer vision and machine learning to automatically tag, categorize, and score your ad creatives across Facebook and Instagram campaigns.
+description: "Comprehensive creative intelligence platform that uses computer vision and machine learning to automatically tag, categorize, and score your ad creatives across Facebook and Instagram campaigns."
 ---
 
 # Creative Intelligence Platform

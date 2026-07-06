@@ -1,5 +1,5 @@
 ---
-description: Take control of your PPC budgets with real-time spend tracking, projections, alerts, and campaign automation. Ensure your best campaigns always get enough budget while staying within monthly limits.
+description: "Take control of your PPC budgets with real-time spend tracking, projections, alerts, and campaign automation. Ensure your best campaigns always get enough budget while staying within monthly limits."
 ---
 
 # Budget Management Tool

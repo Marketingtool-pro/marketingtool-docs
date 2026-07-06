@@ -1,5 +1,5 @@
 ---
-description: AI-powered marketing proposal generator
+description: "AI-powered marketing proposal generator"
 ---
 
 # Marketing Proposal Generator

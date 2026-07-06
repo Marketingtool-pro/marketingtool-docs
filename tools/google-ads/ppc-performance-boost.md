@@ -1,5 +1,5 @@
 ---
-description: Find hidden opportunities faster. Quick-action performance improvements that identify the top changes for the biggest impact on your campaign performance this week.
+description: "Find hidden opportunities faster. Quick-action performance improvements that identify the top changes for the biggest impact on your campaign performance this week."
 ---
 
 # Performance Booster

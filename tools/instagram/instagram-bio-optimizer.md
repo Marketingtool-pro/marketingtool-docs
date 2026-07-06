@@ -1,5 +1,5 @@
 ---
-description: Optimize your Instagram bio for maximum profile visits, follows, and link clicks. AI analyzes top-performing bios in your niche to craft a compelling 150-character bio with strategic keywords, emojis, and CTA.
+description: "Optimize your Instagram bio for maximum profile visits, follows, and link clicks. AI analyzes top-performing bios in your niche to craft a compelling 150-character bio with strategic keywords, emojis, and CTA."
 ---
 
 # Instagram Bio Optimizer

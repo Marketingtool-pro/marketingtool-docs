@@ -1,5 +1,5 @@
 ---
-description: Real-time health monitoring for your Google Ads campaigns. Track conversion rates, budget pacing, impression share, and quality scores with alerts when metrics drop below thresholds.
+description: "Real-time health monitoring for your Google Ads campaigns. Track conversion rates, budget pacing, impression share, and quality scores with alerts when metrics drop below thresholds."
 ---
 
 # Campaign Health Monitor

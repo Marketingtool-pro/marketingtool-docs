@@ -1,5 +1,5 @@
 ---
-description: Targeting intelligence platform that analyzes your Facebook ad account performance to rank interests by profitability, predict top targeting options, and build precision audiences with drag-and-drop tools.
+description: "Targeting intelligence platform that analyzes your Facebook ad account performance to rank interests by profitability, predict top targeting options, and build precision audiences with drag-and-drop tools."
 ---
 
 # Meta Audience Studio

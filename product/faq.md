@@ -1,5 +1,5 @@
 ---
-description: Frequently asked questions
+description: "Frequently asked questions"
 ---
 
 # FAQ

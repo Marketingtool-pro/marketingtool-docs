@@ -1,5 +1,5 @@
 ---
-description: Smarter PPC audits, faster results. Comprehensive audit of your Google Ads account structure, keyword conflicts, negative keyword gaps, and bidding alignment with a prioritized action plan.
+description: "Smarter PPC audits, faster results. Comprehensive audit of your Google Ads account structure, keyword conflicts, negative keyword gaps, and bidding alignment with a prioritized action plan."
 ---
 
 # PPC Account Auditor

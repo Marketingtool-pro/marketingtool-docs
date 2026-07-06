@@ -1,5 +1,5 @@
 ---
-description: Auto-generates weekly/monthly ecommerce performance reports with AI-written insights, trend analysis, and actionable next steps.
+description: "Auto-generates weekly/monthly ecommerce performance reports with AI-written insights, trend analysis, and actionable next steps."
 ---
 
 # Ecommerce Reporting Automator

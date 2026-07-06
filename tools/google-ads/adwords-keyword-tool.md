@@ -1,5 +1,5 @@
 ---
-description: Find high-value keywords for your Google Ads campaigns. Get search volume, CPC estimates, competition levels, and keyword suggestions based on your products and competitors.
+description: "Find high-value keywords for your Google Ads campaigns. Get search volume, CPC estimates, competition levels, and keyword suggestions based on your products and competitors."
 ---
 
 # Google Ads Keyword Planner

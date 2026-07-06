@@ -1,5 +1,5 @@
 ---
-description: AI-powered intelligent automation platform
+description: "AI-powered intelligent automation platform"
 ---
 
 # Intelligent Automation Platform

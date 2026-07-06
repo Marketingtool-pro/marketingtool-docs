@@ -1,5 +1,5 @@
 ---
-description: Competitive intelligence for Google Shopping campaigns. Analyze pricing strategies, product feed optimization, and competitor ad positions to win more clicks and conversions in Shopping.
+description: "Competitive intelligence for Google Shopping campaigns. Analyze pricing strategies, product feed optimization, and competitor ad positions to win more clicks and conversions in Shopping."
 ---
 
 # Shopping Campaign Intelligence

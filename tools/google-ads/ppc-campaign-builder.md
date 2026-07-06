@@ -1,5 +1,5 @@
 ---
-description: The easy way to build campaigns at scale. Create large campaigns from CSV, generate thousands of ads in bulk, and manage RSAs across ad groups simultaneously.
+description: "The easy way to build campaigns at scale. Create large campaigns from CSV, generate thousands of ads in bulk, and manage RSAs across ad groups simultaneously."
 ---
 
 # PPC Campaign Builder

@@ -1,5 +1,5 @@
 ---
-description: Manages and optimizes Google Performance Max campaigns with AI-driven asset group creation and audience signal tuning.
+description: "Manages and optimizes Google Performance Max campaigns with AI-driven asset group creation and audience signal tuning."
 ---
 
 # Performance Max Campaign Manager

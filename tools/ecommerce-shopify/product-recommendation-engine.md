@@ -1,5 +1,5 @@
 ---
-description: AI-powered product recommendation engine
+description: "AI-powered product recommendation engine"
 ---
 
 # Product Recommendation Engine

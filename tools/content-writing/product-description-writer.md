@@ -1,5 +1,5 @@
 ---
-description: AI-powered product description writer
+description: "AI-powered product description writer"
 ---
 
 # Product Description Writer

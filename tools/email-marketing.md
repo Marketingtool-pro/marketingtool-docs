@@ -1,5 +1,5 @@
 ---
-description: Write emails that convert — cold outreach, product launches, and full sequences.
+description: "Write emails that convert — cold outreach, product launches, and full sequences."
 ---
 
 # Email Marketing

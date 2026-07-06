@@ -1,5 +1,5 @@
 ---
-description: Audit your search terms report to find wasted spend and new opportunities. Identify irrelevant queries costing you money, discover new keyword ideas, and build negative keyword lists.
+description: "Audit your search terms report to find wasted spend and new opportunities. Identify irrelevant queries costing you money, discover new keyword ideas, and build negative keyword lists."
 ---
 
 # Search Term Audit

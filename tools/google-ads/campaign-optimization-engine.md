@@ -1,5 +1,5 @@
 ---
-description: Comprehensive campaign optimization powered by machine learning. Analyze performance patterns, identify optimization opportunities, and get a ranked list of changes by potential impact.
+description: "Comprehensive campaign optimization powered by machine learning. Analyze performance patterns, identify optimization opportunities, and get a ranked list of changes by potential impact."
 ---
 
 # Campaign Optimization Engine

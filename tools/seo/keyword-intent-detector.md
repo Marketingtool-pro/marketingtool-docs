@@ -1,5 +1,5 @@
 ---
-description: AI-powered keyword intent detector
+description: "AI-powered keyword intent detector"
 ---
 
 # Keyword Intent Detector

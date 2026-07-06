@@ -1,5 +1,5 @@
 ---
-description: Builds automated cross-sell and upsell email sequences triggered by specific purchases, using AI to select the best product pairings.
+description: "Builds automated cross-sell and upsell email sequences triggered by specific purchases, using AI to select the best product pairings."
 ---
 
 # Cross-Sell Upsell Flow Builder

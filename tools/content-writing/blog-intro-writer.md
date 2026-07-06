@@ -1,5 +1,5 @@
 ---
-description: AI-powered blog intro writer
+description: "AI-powered blog intro writer"
 ---
 
 # Blog Intro Writer

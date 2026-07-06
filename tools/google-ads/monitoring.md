@@ -1,5 +1,5 @@
 ---
-description: Never miss an issue or opportunity again. Real-time monitoring of your Google Ads accounts with alerts for performance drops, budget pacing issues, and anomalies.
+description: "Never miss an issue or opportunity again. Real-time monitoring of your Google Ads accounts with alerts for performance drops, budget pacing issues, and anomalies."
 ---
 
 # PPC Performance Monitor

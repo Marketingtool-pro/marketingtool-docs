@@ -1,5 +1,5 @@
 ---
-description: Full campaign-level audit of your Google Ads account. Check campaign settings, targeting, bidding strategy alignment, budget allocation, and conversion tracking setup for errors.
+description: "Full campaign-level audit of your Google Ads account. Check campaign settings, targeting, bidding strategy alignment, budget allocation, and conversion tracking setup for errors."
 ---
 
 # Campaign Audit Tool

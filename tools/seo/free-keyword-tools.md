@@ -1,5 +1,5 @@
 ---
-description: AI-powered free keyword tools
+description: "AI-powered free keyword tools"
 ---
 
 # Free Keyword Tools

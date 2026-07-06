@@ -1,5 +1,5 @@
 ---
-description: Monitors ad creative performance decay, alerts when ads are fatiguing, and auto-suggests refresh strategies with new variations.
+description: "Monitors ad creative performance decay, alerts when ads are fatiguing, and auto-suggests refresh strategies with new variations."
 ---
 
 # Creative Fatigue Detector

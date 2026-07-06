@@ -1,5 +1,5 @@
 ---
-description: All-in-one Facebook marketing suite combining ad creation, audience targeting, performance analytics, and content scheduling into a unified workspace for streamlined social media marketing.
+description: "All-in-one Facebook marketing suite combining ad creation, audience targeting, performance analytics, and content scheduling into a unified workspace for streamlined social media marketing."
 ---
 
 # Facebook Marketing Suite

@@ -1,5 +1,5 @@
 ---
-description: Intelligent image resizer for Meta ad creatives that automatically adapts your designs to all Facebook and Instagram placement dimensions — Feed (1:1), Stories (9:16), Reels (9:16), and Marketplace — while preserving visual quality.
+description: "Intelligent image resizer for Meta ad creatives that automatically adapts your designs to all Facebook and Instagram placement dimensions — Feed (1:1), Stories (9:16), Reels (9:16), and Marketplace — while preserving visual quality."
 ---
 
 # Image Resizer

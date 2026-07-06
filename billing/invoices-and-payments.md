@@ -1,5 +1,5 @@
 ---
-description: Receipts and billing records
+description: "Receipts and billing records"
 ---
 
 # Invoices & payments

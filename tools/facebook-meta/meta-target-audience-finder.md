@@ -1,5 +1,5 @@
 ---
-description: AI-powered audience discovery that explores 100+ targeting opportunities, launches preset audiences built on eRFM modeling, and uses predictive analytics to identify your next best Facebook audience.
+description: "AI-powered audience discovery that explores 100+ targeting opportunities, launches preset audiences built on eRFM modeling, and uses predictive analytics to identify your next best Facebook audience."
 ---
 
 # Meta Target Audience Finder

@@ -1,5 +1,5 @@
 ---
-description: Automate your Instagram marketing workflow — schedule posts, auto-engage with followers, manage DMs, and trigger actions based on comments and story interactions to grow your account on autopilot.
+description: "Automate your Instagram marketing workflow — schedule posts, auto-engage with followers, manage DMs, and trigger actions based on comments and story interactions to grow your account on autopilot."
 ---
 
 # Instagram Ai Automation

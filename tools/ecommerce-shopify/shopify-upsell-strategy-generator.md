@@ -1,5 +1,5 @@
 ---
-description: Creates upsell and cross-sell strategies for your Shopify store including bundle offers, volume discounts, and post-purchase upsells.
+description: "Creates upsell and cross-sell strategies for your Shopify store including bundle offers, volume discounts, and post-purchase upsells."
 ---
 
 # Shopify Upsell Strategy Generator

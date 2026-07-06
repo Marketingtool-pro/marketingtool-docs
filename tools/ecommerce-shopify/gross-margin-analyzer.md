@@ -1,5 +1,5 @@
 ---
-description: Calculates and tracks gross margin per product and category, flags margin erosion, and recommends pricing adjustments.
+description: "Calculates and tracks gross margin per product and category, flags margin erosion, and recommends pricing adjustments."
 ---
 
 # Gross Margin Analyzer

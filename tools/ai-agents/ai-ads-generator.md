@@ -1,5 +1,5 @@
 ---
-description: AI-powered ai ads generator
+description: "AI-powered ai ads generator"
 ---
 
 # Ai Ads Generator

@@ -1,5 +1,5 @@
 ---
-description: Generates TikTok-native ad scripts, hooks, and creative briefs optimized for Gen Z shoppers and ecommerce conversion.
+description: "Generates TikTok-native ad scripts, hooks, and creative briefs optimized for Gen Z shoppers and ecommerce conversion."
 ---
 
 # TikTok Ecommerce Ad Creator

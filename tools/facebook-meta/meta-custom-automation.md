@@ -1,5 +1,5 @@
 ---
-description: Build personalized Facebook ad automation workflows from 300+ metrics. Create sophisticated rules that automatically scale winners, pause losers, and optimize budgets — like a trained media buyer working 24/7.
+description: "Build personalized Facebook ad automation workflows from 300+ metrics. Create sophisticated rules that automatically scale winners, pause losers, and optimize budgets — like a trained media buyer working 24/7."
 ---
 
 # Meta Custom Automation

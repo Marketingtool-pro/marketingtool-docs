@@ -1,5 +1,5 @@
 ---
-description: Save time and grow faster with intelligent Google Ads automation. Create rules to auto-pause underperformers, scale winners, adjust bids, and manage budgets based on real-time data.
+description: "Save time and grow faster with intelligent Google Ads automation. Create rules to auto-pause underperformers, scale winners, adjust bids, and manage budgets based on real-time data."
 ---
 
 # Google Ads Automation Rules

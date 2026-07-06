@@ -1,5 +1,5 @@
 ---
-description: AI-powered paragraph shortener
+description: "AI-powered paragraph shortener"
 ---
 
 # Paragraph Shortener

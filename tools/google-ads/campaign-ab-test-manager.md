@@ -1,5 +1,5 @@
 ---
-description: Set up and manage A/B tests across your Google Ads campaigns. Test bidding strategies, ad copy, landing pages, and audiences with proper experiment controls and statistical rigor.
+description: "Set up and manage A/B tests across your Google Ads campaigns. Test bidding strategies, ad copy, landing pages, and audiences with proper experiment controls and statistical rigor."
 ---
 
 # Campaign Ab Test Manager

@@ -1,5 +1,5 @@
 ---
-description: Create and manage high-converting Instagram Story ads with full-screen immersive formats. Design swipe-up sequences, interactive polls, quiz stickers, and countdown timers that drive action and engagement.
+description: "Create and manage high-converting Instagram Story ads with full-screen immersive formats. Design swipe-up sequences, interactive polls, quiz stickers, and countdown timers that drive action and engagement."
 ---
 
 # Instagram Story Ads Manager

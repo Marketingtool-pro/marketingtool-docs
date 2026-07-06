@@ -1,5 +1,5 @@
 ---
-description: Check your Google Ads campaigns for policy compliance issues before they get disapproved. Scan ad copy, landing pages, and targeting settings against Google's advertising policies.
+description: "Check your Google Ads campaigns for policy compliance issues before they get disapproved. Scan ad copy, landing pages, and targeting settings against Google's advertising policies."
 ---
 
 # Campaign Compliance Checker

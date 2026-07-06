@@ -1,5 +1,5 @@
 ---
-description: Analyzes your current sales data and recommends which new platforms (TikTok, Pinterest, Amazon, Snapchat) to expand to and when.
+description: "Analyzes your current sales data and recommends which new platforms (TikTok, Pinterest, Amazon, Snapchat) to expand to and when."
 ---
 
 # Platform Expansion Planner

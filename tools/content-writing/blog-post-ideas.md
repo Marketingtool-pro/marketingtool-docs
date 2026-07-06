@@ -1,5 +1,5 @@
 ---
-description: AI-powered blog post ideas
+description: "AI-powered blog post ideas"
 ---
 
 # Blog Post Ideas

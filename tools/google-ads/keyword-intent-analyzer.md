@@ -1,5 +1,5 @@
 ---
-description: Classify keywords by search intent: informational, navigational, commercial, or transactional. Align your ad copy and landing pages to match what searchers actually want.
+description: "Classify keywords by search intent: informational, navigational, commercial, or transactional. Align your ad copy and landing pages to match what searchers actually want."
 ---
 
 # Keyword Intent Analyzer

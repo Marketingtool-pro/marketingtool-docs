@@ -1,5 +1,5 @@
 ---
-description: AI-powered shopify campaign manager
+description: "AI-powered shopify campaign manager"
 ---
 
 # Shopify Campaign Manager

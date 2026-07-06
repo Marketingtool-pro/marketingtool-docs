@@ -1,5 +1,5 @@
 ---
-description: One product on web, iOS, and Android
+description: "One product on web, iOS, and Android"
 ---
 
 # Apps & platforms

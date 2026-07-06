@@ -1,5 +1,5 @@
 ---
-description: Compare PPC management tools side-by-side. Get unbiased analysis of features, pricing, and capabilities across Adalysis, Optmyzr, WordStream, and other platforms.
+description: "Compare PPC management tools side-by-side. Get unbiased analysis of features, pricing, and capabilities across Adalysis, Optmyzr, WordStream, and other platforms."
 ---
 
 # PPC Tool Comparison Engine

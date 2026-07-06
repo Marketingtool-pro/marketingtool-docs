@@ -1,5 +1,5 @@
 ---
-description: Deep-dive Facebook campaign analysis that audits your account structure, identifies wasted spend, finds scaling opportunities, and benchmarks performance against industry standards.
+description: "Deep-dive Facebook campaign analysis that audits your account structure, identifies wasted spend, finds scaling opportunities, and benchmarks performance against industry standards."
 ---
 
 # Meta Campaign Analyzer

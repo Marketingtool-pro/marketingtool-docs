@@ -1,5 +1,5 @@
 ---
-description: Comprehensive audit of Quality Scores across your Google Ads account. Analyze expected CTR, ad relevance, and landing page experience for every keyword with a prioritized improvement plan.
+description: "Comprehensive audit of Quality Scores across your Google Ads account. Analyze expected CTR, ad relevance, and landing page experience for every keyword with a prioritized improvement plan."
 ---
 
 # Quality Score Audit

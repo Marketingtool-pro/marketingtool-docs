@@ -1,5 +1,5 @@
 ---
-description: Plan, create, and schedule content across TikTok, X, Pinterest, LinkedIn, and YouTube from one place.
+description: "Plan, create, and schedule content across TikTok, X, Pinterest, LinkedIn, and YouTube from one place."
 ---
 
 # Social Media & Channels

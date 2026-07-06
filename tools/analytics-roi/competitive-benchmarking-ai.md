@@ -1,5 +1,5 @@
 ---
-description: AI-powered competitive benchmarking ai
+description: "AI-powered competitive benchmarking ai"
 ---
 
 # Competitive Benchmarking Ai

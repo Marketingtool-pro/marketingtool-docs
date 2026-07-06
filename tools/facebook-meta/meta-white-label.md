@@ -1,5 +1,5 @@
 ---
-description: White-label Facebook ad management for agencies — rebrand campaigns, ad sets, and ads under your agency name. Generate branded PDF reports with your logo on automated schedules for professional client delivery.
+description: "White-label Facebook ad management for agencies — rebrand campaigns, ad sets, and ads under your agency name. Generate branded PDF reports with your logo on automated schedules for professional client delivery."
 ---
 
 # Meta White Label

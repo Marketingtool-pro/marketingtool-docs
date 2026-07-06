@@ -1,5 +1,5 @@
 ---
-description: AI-powered blog conclusion writer
+description: "AI-powered blog conclusion writer"
 ---
 
 # Blog Conclusion Writer

@@ -1,5 +1,5 @@
 ---
-description: AI-powered schema generator
+description: "AI-powered schema generator"
 ---
 
 # Schema Generator

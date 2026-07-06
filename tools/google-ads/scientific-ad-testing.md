@@ -1,5 +1,5 @@
 ---
-description: Statistically rigorous ad testing using Bayesian analysis. Multi-metric performance measurement beyond simple CTR—measure lift in conversions and revenue per impression.
+description: "Statistically rigorous ad testing using Bayesian analysis. Multi-metric performance measurement beyond simple CTR—measure lift in conversions and revenue per impression."
 ---
 
 # Scientific Ad Testing

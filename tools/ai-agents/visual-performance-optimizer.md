@@ -1,5 +1,5 @@
 ---
-description: Optimize the visual elements of your Facebook and Instagram ads using AI analysis. Identifies which colors, compositions, text overlays, and imagery styles drive the highest engagement and conversion rates.
+description: "Optimize the visual elements of your Facebook and Instagram ads using AI analysis. Identifies which colors, compositions, text overlays, and imagery styles drive the highest engagement and conversion rates."
 ---
 
 # Visual Performance Optimizer

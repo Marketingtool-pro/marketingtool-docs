@@ -1,5 +1,5 @@
 ---
-description: AI-powered autonomous marketing manager
+description: "AI-powered autonomous marketing manager"
 ---
 
 # Autonomous Marketing Manager

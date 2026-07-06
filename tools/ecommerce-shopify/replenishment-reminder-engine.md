@@ -1,5 +1,5 @@
 ---
-description: Predicts product replenishment timing based on purchase frequency and sends automated restock reminders at the optimal moment.
+description: "Predicts product replenishment timing based on purchase frequency and sends automated restock reminders at the optimal moment."
 ---
 
 # Replenishment Reminder Engine

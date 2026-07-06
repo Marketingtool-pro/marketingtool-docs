@@ -1,5 +1,5 @@
 ---
-description: Designs tiered loyalty and VIP reward programs with automated trigger emails for milestone achievements and exclusive offers.
+description: "Designs tiered loyalty and VIP reward programs with automated trigger emails for milestone achievements and exclusive offers."
 ---
 
 # Loyalty VIP Rewards Designer

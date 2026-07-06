@@ -1,5 +1,5 @@
 ---
-description: Forecasts product demand using AI, recommends reorder quantities, and identifies slow-moving inventory before it becomes deadstock.
+description: "Forecasts product demand using AI, recommends reorder quantities, and identifies slow-moving inventory before it becomes deadstock."
 ---
 
 # Predictive Inventory Manager

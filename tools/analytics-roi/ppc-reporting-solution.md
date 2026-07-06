@@ -1,5 +1,5 @@
 ---
-description: Automate your PPC reporting. Generate professional reports for clients and stakeholders with auto-populated data, insights, recommendations, and PDF or dashboard exports.
+description: "Automate your PPC reporting. Generate professional reports for clients and stakeholders with auto-populated data, insights, recommendations, and PDF or dashboard exports."
 ---
 
 # PPC Report Generator

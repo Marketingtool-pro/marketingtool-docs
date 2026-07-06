@@ -1,5 +1,5 @@
 ---
-description: Generates automated post-purchase email flows including review requests, usage tips, and cross-sell recommendations.
+description: "Generates automated post-purchase email flows including review requests, usage tips, and cross-sell recommendations."
 ---
 
 # Post-Purchase Follow-Up Builder

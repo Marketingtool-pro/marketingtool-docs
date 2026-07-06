@@ -1,5 +1,5 @@
 ---
-description: Generate and distribute white-labeled ad performance reports automatically on daily, weekly, or monthly schedules. Custom metrics, branded PDFs with your logo, and team-wide distribution built in.
+description: "Generate and distribute white-labeled ad performance reports automatically on daily, weekly, or monthly schedules. Custom metrics, branded PDFs with your logo, and team-wide distribution built in."
 ---
 
 # Meta Automated Reporting

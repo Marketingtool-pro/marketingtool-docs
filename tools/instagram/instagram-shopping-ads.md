@@ -1,5 +1,5 @@
 ---
-description: Create and optimize Instagram Shopping ads that turn browsers into buyers. Set up product catalogs, tag products in posts and Stories, and run targeted Shopping campaigns with AI-optimized audiences and placements.
+description: "Create and optimize Instagram Shopping ads that turn browsers into buyers. Set up product catalogs, tag products in posts and Stories, and run targeted Shopping campaigns with AI-optimized audiences and placements."
 ---
 
 # Instagram Shopping Ads

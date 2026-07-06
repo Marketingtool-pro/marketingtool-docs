@@ -1,5 +1,5 @@
 ---
-description: Generate market research summaries
+description: "Generate market research summaries"
 ---
 
 # Market Research Summary

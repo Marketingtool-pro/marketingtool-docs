@@ -1,5 +1,5 @@
 ---
-description: Browse all 314 AI marketing tools by category
+description: "Browse all 314 AI marketing tools by category"
 ---
 
 # Tools overview

@@ -1,5 +1,5 @@
 ---
-description: AI-powered comment moderation and response system for Facebook and Instagram ads. Automatically reply to questions, hide spam, flag negative sentiment, and engage potential customers 24/7.
+description: "AI-powered comment moderation and response system for Facebook and Instagram ads. Automatically reply to questions, hide spam, flag negative sentiment, and engage potential customers 24/7."
 ---
 
 # Meta Ai Comment Responder

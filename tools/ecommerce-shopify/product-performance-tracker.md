@@ -1,5 +1,5 @@
 ---
-description: AI-powered product performance tracker
+description: "AI-powered product performance tracker"
 ---
 
 # Product Performance Tracker

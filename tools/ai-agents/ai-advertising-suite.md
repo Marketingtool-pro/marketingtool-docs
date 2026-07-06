@@ -1,5 +1,5 @@
 ---
-description: AI-powered ai advertising suite
+description: "AI-powered ai advertising suite"
 ---
 
 # Ai Advertising Suite

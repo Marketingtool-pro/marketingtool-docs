@@ -1,5 +1,5 @@
 ---
-description: Generate high-converting Instagram ad creatives with AI — Feed ads, Story ads, Reel ads, and Carousel ads designed specifically for Instagram's visual-first audience with scroll-stopping hooks and clear CTAs.
+description: "Generate high-converting Instagram ad creatives with AI — Feed ads, Story ads, Reel ads, and Carousel ads designed specifically for Instagram's visual-first audience with scroll-stopping hooks and clear CTAs."
 ---
 
 # Instagram Ad Creative Generator

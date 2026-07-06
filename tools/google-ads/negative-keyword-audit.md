@@ -1,5 +1,5 @@
 ---
-description: Audit your negative keyword lists for gaps and conflicts. Find search terms wasting budget that need negatives, and check for negatives accidentally blocking profitable keywords.
+description: "Audit your negative keyword lists for gaps and conflicts. Find search terms wasting budget that need negatives, and check for negatives accidentally blocking profitable keywords."
 ---
 
 # Negative Keyword Audit

@@ -1,5 +1,5 @@
 ---
-description: AI-powered engagement calculator
+description: "AI-powered engagement calculator"
 ---
 
 # Engagement Calculator

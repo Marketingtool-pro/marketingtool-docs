@@ -1,5 +1,5 @@
 ---
-description: Audit your Google Ads landing pages for conversion rate optimization. Check page speed, mobile experience, message match with ads, form design, and trust signals.
+description: "Audit your Google Ads landing pages for conversion rate optimization. Check page speed, mobile experience, message match with ads, form design, and trust signals."
 ---
 
 # Landing Page Audit

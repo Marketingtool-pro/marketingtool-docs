@@ -1,5 +1,5 @@
 ---
-description: Optimize your Instagram Reels for maximum reach and virality. AI analyzes trending audio, optimal video length, hook timing, caption strategy, and hashtags to boost your Reels performance by 3-10x.
+description: "Optimize your Instagram Reels for maximum reach and virality. AI analyzes trending audio, optimal video length, hook timing, caption strategy, and hashtags to boost your Reels performance by 3-10x."
 ---
 
 # Instagram Reels Optimizer

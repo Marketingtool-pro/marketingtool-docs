@@ -1,5 +1,5 @@
 ---
-description: AI-powered exam prep content
+description: "AI-powered exam prep content"
 ---
 
 # Exam Prep Content

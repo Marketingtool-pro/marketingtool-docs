@@ -1,5 +1,5 @@
 ---
-description: Deep-dive creative performance analyzer that breaks down your Facebook and Instagram ad performance by visual elements, copy length, CTA type, format, and placement for actionable creative insights.
+description: "Deep-dive creative performance analyzer that breaks down your Facebook and Instagram ad performance by visual elements, copy length, CTA type, format, and placement for actionable creative insights."
 ---
 
 # Creative Performance Analyzer

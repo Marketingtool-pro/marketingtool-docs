@@ -1,5 +1,5 @@
 ---
-description: Build high-converting Facebook Custom Audiences from website visitors, customer lists, app users, and engagement data. Create layered audience segments for precise retargeting across Meta platforms.
+description: "Build high-converting Facebook Custom Audiences from website visitors, customer lists, app users, and engagement data. Create layered audience segments for precise retargeting across Meta platforms."
 ---
 
 # Meta Custom Audiences Builder

@@ -1,5 +1,5 @@
 ---
-description: Understand what works: dashboards, KPI tracking, competitor intelligence, forecasting, and multi-channel attribution.
+description: "Understand what works: dashboards, KPI tracking, competitor intelligence, forecasting, and multi-channel attribution."
 ---
 
 # Analytics, ROI & Attribution

@@ -1,5 +1,5 @@
 ---
-description: Calculate estimated Facebook and Instagram ad costs based on your target audience, placement, objective, and industry benchmarks. Plan budgets with confidence before launching campaigns.
+description: "Calculate estimated Facebook and Instagram ad costs based on your target audience, placement, objective, and industry benchmarks. Plan budgets with confidence before launching campaigns."
 ---
 
 # Meta Ad Cost Calculator

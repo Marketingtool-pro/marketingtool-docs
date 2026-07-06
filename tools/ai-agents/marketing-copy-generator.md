@@ -1,5 +1,5 @@
 ---
-description: AI-powered marketing copy generator
+description: "AI-powered marketing copy generator"
 ---
 
 # Marketing Copy Generator

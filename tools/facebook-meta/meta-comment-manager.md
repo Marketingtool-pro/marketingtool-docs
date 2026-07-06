@@ -1,5 +1,5 @@
 ---
-description: Manage and moderate comments across all your Facebook and Instagram ad campaigns from one inbox. Auto-hide spam, respond to inquiries, and monitor sentiment to protect your brand reputation.
+description: "Manage and moderate comments across all your Facebook and Instagram ad campaigns from one inbox. Auto-hide spam, respond to inquiries, and monitor sentiment to protect your brand reputation."
 ---
 
 # Meta Comment Manager

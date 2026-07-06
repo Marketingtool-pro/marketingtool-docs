@@ -1,5 +1,5 @@
 ---
-description: AI-powered performance auto alerts
+description: "AI-powered performance auto alerts"
 ---
 
 # Performance Auto Alerts

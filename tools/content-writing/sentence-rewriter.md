@@ -1,5 +1,5 @@
 ---
-description: AI-powered sentence rewriter
+description: "AI-powered sentence rewriter"
 ---
 
 # Sentence Rewriter

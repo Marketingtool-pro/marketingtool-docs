@@ -1,5 +1,5 @@
 ---
-description: Safely scale your winning Google Ads campaigns without killing performance. Get a step-by-step scaling plan with budget increases, bid adjustments, and new keyword expansion strategies.
+description: "Safely scale your winning Google Ads campaigns without killing performance. Get a step-by-step scaling plan with budget increases, bid adjustments, and new keyword expansion strategies."
 ---
 
 # Campaign Scaling Assistant

@@ -1,5 +1,5 @@
 ---
-description: AI-powered youtube description generator
+description: "AI-powered youtube description generator"
 ---
 
 # Youtube Description Generator

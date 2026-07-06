@@ -1,5 +1,5 @@
 ---
-description: Write professional podcast scripts
+description: "Write professional podcast scripts"
 ---
 
 # Podcast Script Writer

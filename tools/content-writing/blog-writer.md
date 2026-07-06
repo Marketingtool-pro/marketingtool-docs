@@ -1,5 +1,5 @@
 ---
-description: AI-powered blog post generation
+description: "AI-powered blog post generation"
 ---
 
 # Blog Writer

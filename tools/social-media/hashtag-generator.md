@@ -1,5 +1,5 @@
 ---
-description: Generate research-backed hashtag sets for Instagram and TikTok that maximize discoverability. AI analyzes hashtag volume, competition, and relevance to find the perfect mix of broad, niche, and branded tags.
+description: "Generate research-backed hashtag sets for Instagram and TikTok that maximize discoverability. AI analyzes hashtag volume, competition, and relevance to find the perfect mix of broad, niche, and branded tags."
 ---
 
 # Hashtag Generator

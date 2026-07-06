@@ -1,5 +1,5 @@
 ---
-description: Creates trigger-action automation workflows for your entire ecommerce marketing stack — if-this-then-that style, no code required.
+description: "Creates trigger-action automation workflows for your entire ecommerce marketing stack — if-this-then-that style, no code required."
 ---
 
 # Ecommerce Workflow Automator

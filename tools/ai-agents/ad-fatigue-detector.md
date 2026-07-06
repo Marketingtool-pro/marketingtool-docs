@@ -1,5 +1,5 @@
 ---
-description: AI-powered ad fatigue detector
+description: "AI-powered ad fatigue detector"
 ---
 
 # Ad Fatigue Detector

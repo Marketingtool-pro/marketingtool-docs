@@ -1,5 +1,5 @@
 ---
-description: Generate SEO-optimized FAQ content
+description: "Generate SEO-optimized FAQ content"
 ---
 
 # Faq Generator

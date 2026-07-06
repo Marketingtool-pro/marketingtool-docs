@@ -1,5 +1,5 @@
 ---
-description: AI-powered performance intelligence dashboard
+description: "AI-powered performance intelligence dashboard"
 ---
 
 # Performance Intelligence Dashboard

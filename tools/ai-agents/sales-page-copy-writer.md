@@ -1,5 +1,5 @@
 ---
-description: Write high-converting sales page copy
+description: "Write high-converting sales page copy"
 ---
 
 # Sales Page Copy Writer

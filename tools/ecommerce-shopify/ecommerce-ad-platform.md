@@ -1,5 +1,5 @@
 ---
-description: AI-powered ecommerce ad platform
+description: "AI-powered ecommerce ad platform"
 ---
 
 # Ecommerce Ad Platform

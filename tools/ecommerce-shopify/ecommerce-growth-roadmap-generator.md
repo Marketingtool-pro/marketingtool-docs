@@ -1,5 +1,5 @@
 ---
-description: Generates a customized 12-month growth plan covering marketing channels, budget allocation, and milestone targets for your store.
+description: "Generates a customized 12-month growth plan covering marketing channels, budget allocation, and milestone targets for your store."
 ---
 
 # Ecommerce Growth Roadmap Generator

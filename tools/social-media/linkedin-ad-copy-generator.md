@@ -1,5 +1,5 @@
 ---
-description: Create professional LinkedIn ad copy
+description: "Create professional LinkedIn ad copy"
 ---
 
 # Linkedin Ad Copy Generator

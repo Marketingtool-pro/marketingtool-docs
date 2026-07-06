@@ -1,5 +1,5 @@
 ---
-description: Real-time Facebook ad optimization engine that continuously monitors campaign performance and makes instant adjustments to bids, budgets, and audience targeting — responding to market changes in seconds, not hours.
+description: "Real-time Facebook ad optimization engine that continuously monitors campaign performance and makes instant adjustments to bids, budgets, and audience targeting — responding to market changes in seconds, not hours."
 ---
 
 # Real Time Meta Optimizer

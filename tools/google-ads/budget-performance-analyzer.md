@@ -1,5 +1,5 @@
 ---
-description: Analyze how your budget is performing across campaigns. Find campaigns burning budget with no conversions, campaigns limited by budget that deserve more, and ROI gaps to fix.
+description: "Analyze how your budget is performing across campaigns. Find campaigns burning budget with no conversions, campaigns limited by budget that deserve more, and ROI gaps to fix."
 ---
 
 # Budget Performance Analyzer

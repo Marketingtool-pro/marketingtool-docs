@@ -1,5 +1,5 @@
 ---
-description: Fixes for the most common issues
+description: "Fixes for the most common issues"
 ---
 
 # Troubleshooting

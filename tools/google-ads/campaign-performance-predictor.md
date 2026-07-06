@@ -1,5 +1,5 @@
 ---
-description: Predict campaign performance before you launch. Input your targeting, budget, and bid strategy to get estimated impressions, clicks, conversions, CPA, and ROAS projections.
+description: "Predict campaign performance before you launch. Input your targeting, budget, and bid strategy to get estimated impressions, clicks, conversions, CPA, and ROAS projections."
 ---
 
 # Campaign Performance Predictor

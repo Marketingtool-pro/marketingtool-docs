@@ -1,5 +1,5 @@
 ---
-description: AI-powered technical explanation writer
+description: "AI-powered technical explanation writer"
 ---
 
 # Technical Explanation Writer

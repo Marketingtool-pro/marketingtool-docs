@@ -1,5 +1,5 @@
 ---
-description: How to cancel, and what happens after
+description: "How to cancel, and what happens after"
 ---
 
 # Cancellation

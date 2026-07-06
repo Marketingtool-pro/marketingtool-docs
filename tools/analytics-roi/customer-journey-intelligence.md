@@ -1,5 +1,5 @@
 ---
-description: AI-powered customer journey intelligence
+description: "AI-powered customer journey intelligence"
 ---
 
 # Customer Journey Intelligence

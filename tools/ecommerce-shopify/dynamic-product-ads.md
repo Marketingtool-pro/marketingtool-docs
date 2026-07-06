@@ -1,5 +1,5 @@
 ---
-description: AI-powered dynamic product ads
+description: "AI-powered dynamic product ads"
 ---
 
 # Dynamic Product Ads

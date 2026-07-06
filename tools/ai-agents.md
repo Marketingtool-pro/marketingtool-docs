@@ -1,5 +1,5 @@
 ---
-description: Put marketing on autopilot with autonomous agents, workflow automation, creative intelligence, and branding tools.
+description: "Put marketing on autopilot with autonomous agents, workflow automation, creative intelligence, and branding tools."
 ---
 
 # AI Agents & Automation

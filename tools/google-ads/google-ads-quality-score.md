@@ -1,5 +1,5 @@
 ---
-description: The ultimate guide to Google Ads Quality Score. Deep-dive into expected CTR, ad relevance, and landing page experience with impression-weighted aggregate insights and specific fixes.
+description: "The ultimate guide to Google Ads Quality Score. Deep-dive into expected CTR, ad relevance, and landing page experience with impression-weighted aggregate insights and specific fixes."
 ---
 
 # Quality Score Analyzer

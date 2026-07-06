@@ -1,5 +1,5 @@
 ---
-description: Launch hundreds of winning Facebook and Instagram ads instantly by combining top-performing creatives with high-converting ad copy. Convert organic posts into paid ads with one click.
+description: "Launch hundreds of winning Facebook and Instagram ads instantly by combining top-performing creatives with high-converting ad copy. Convert organic posts into paid ads with one click."
 ---
 
 # Meta Ad Launcher

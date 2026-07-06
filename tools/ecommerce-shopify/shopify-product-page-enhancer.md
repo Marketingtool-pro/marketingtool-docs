@@ -1,5 +1,5 @@
 ---
-description: Rewrites product titles, descriptions, and bullet points using AI to maximize SEO visibility and conversion rate.
+description: "Rewrites product titles, descriptions, and bullet points using AI to maximize SEO visibility and conversion rate."
 ---
 
 # Shopify Product Page Enhancer

@@ -1,5 +1,5 @@
 ---
-description: Build professional comparison charts
+description: "Build professional comparison charts"
 ---
 
 # Comparison Chart Creator

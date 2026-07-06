@@ -1,5 +1,5 @@
 ---
-description: Creates complete Klaviyo/Omnisend email automation flows — abandoned cart, welcome, win-back — tailored to your Shopify store data.
+description: "Creates complete Klaviyo/Omnisend email automation flows — abandoned cart, welcome, win-back — tailored to your Shopify store data."
 ---
 
 # Shopify Email Flow Builder

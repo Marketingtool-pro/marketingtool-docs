@@ -1,5 +1,5 @@
 ---
-description: AI-powered cta writer
+description: "AI-powered cta writer"
 ---
 
 # Cta Writer

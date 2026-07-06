@@ -1,5 +1,5 @@
 ---
-description: Discover and vet Instagram influencers for brand partnerships. Search by niche, location, audience demographics, engagement rate, and follower authenticity to find creators who deliver real ROI.
+description: "Discover and vet Instagram influencers for brand partnerships. Search by niche, location, audience demographics, engagement rate, and follower authenticity to find creators who deliver real ROI."
 ---
 
 # Instagram Influencer Finder

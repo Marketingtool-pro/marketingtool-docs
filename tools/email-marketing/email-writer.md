@@ -1,5 +1,5 @@
 ---
-description: AI-powered email writer
+description: "AI-powered email writer"
 ---
 
 # Email Writer

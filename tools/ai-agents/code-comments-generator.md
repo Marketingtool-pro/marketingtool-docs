@@ -1,5 +1,5 @@
 ---
-description: AI-powered code comments generator
+description: "AI-powered code comments generator"
 ---
 
 # Code Comments Generator

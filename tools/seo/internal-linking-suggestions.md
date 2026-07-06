@@ -1,5 +1,5 @@
 ---
-description: AI-powered internal linking suggestions
+description: "AI-powered internal linking suggestions"
 ---
 
 # Internal Linking Suggestions

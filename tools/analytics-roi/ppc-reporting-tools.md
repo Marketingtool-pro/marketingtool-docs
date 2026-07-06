@@ -1,5 +1,5 @@
 ---
-description: Automate your PPC reporting with scheduled delivery. Choose templates, customize metrics, add annotations, and auto-send weekly or monthly reports to stakeholders.
+description: "Automate your PPC reporting with scheduled delivery. Choose templates, customize metrics, add annotations, and auto-send weekly or monthly reports to stakeholders."
 ---
 
 # Automated Reporting Suite

@@ -1,5 +1,5 @@
 ---
-description: Fast search term insights and recommendations. Deep analysis of your search terms report to find wasted spend, discover keyword opportunities, and build negative keyword lists.
+description: "Fast search term insights and recommendations. Deep analysis of your search terms report to find wasted spend, discover keyword opportunities, and build negative keyword lists."
 ---
 
 # Search Term Analyzer

@@ -1,5 +1,5 @@
 ---
-description: Generate professional case studies
+description: "Generate professional case studies"
 ---
 
 # Case Study Writer

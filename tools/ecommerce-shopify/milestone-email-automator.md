@@ -1,5 +1,5 @@
 ---
-description: Creates and schedules personalized milestone emails (birthdays, anniversaries, purchase anniversaries) with dynamic discount offers.
+description: "Creates and schedules personalized milestone emails (birthdays, anniversaries, purchase anniversaries) with dynamic discount offers."
 ---
 
 # Milestone Email Automator

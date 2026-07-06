@@ -1,5 +1,5 @@
 ---
-description: Optimizes Google Shopping campaigns including product feed quality, bid strategies, and negative keyword management for better ROAS.
+description: "Optimizes Google Shopping campaigns including product feed quality, bid strategies, and negative keyword management for better ROAS."
 ---
 
 # Google Shopping Optimizer

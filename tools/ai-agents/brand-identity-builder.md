@@ -1,5 +1,5 @@
 ---
-description: AI-powered brand identity builder with logo, colors, and style guide
+description: "AI-powered brand identity builder with logo, colors, and style guide"
 ---
 
 # Brand Identity Builder

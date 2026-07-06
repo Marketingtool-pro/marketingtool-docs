@@ -1,5 +1,5 @@
 ---
-description: AI-powered creative studio for Facebook and Instagram ads. Design, generate, and test ad creatives across all formats — Feed, Stories, Reels, Carousel — with AI-driven recommendations for visual elements and copy.
+description: "AI-powered creative studio for Facebook and Instagram ads. Design, generate, and test ad creatives across all formats — Feed, Stories, Reels, Carousel — with AI-driven recommendations for visual elements and copy."
 ---
 
 # Meta Creative Studio

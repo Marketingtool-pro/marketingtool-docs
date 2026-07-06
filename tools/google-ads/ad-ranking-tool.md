@@ -1,5 +1,5 @@
 ---
-description: Calculate and improve your Google Ads Ad Rank. Understand how bid, Quality Score, and ad extensions combine to determine your position and cost per click.
+description: "Calculate and improve your Google Ads Ad Rank. Understand how bid, Quality Score, and ad extensions combine to determine your position and cost per click."
 ---
 
 # Ad Rank Calculator
