@@ -1,22 +1,36 @@
 ---
-description: Understand plans, quotas, and how credits work
+description: Starter, Pro, and Growth — plans, generations, and top-ups
 ---
 
 # Plans & credits
 
-## How plans work
+{% hint style="info" %}
+**Every tool is available on every plan.** Plans differ only in how many generations you get — there are no locked features.
+{% endhint %}
 
-**Every tool is available on every plan.** Plans differ only in *how much* you can use — your monthly quota of credits. There are no locked features and no bait-and-switch.
+## Plans
 
-For current pricing, see the [pricing page](https://marketingtool.pro/#pricing) or the in-app subscription screen.
+| | **Starter** | **Pro** | **Growth** ⭐ |
+| --- | --- | --- | --- |
+| Monthly | $29/mo | $59/mo | $99/mo |
+| Annual | $199/yr (~$17/mo) | $499/yr (~$42/mo) | $999/yr (~$83/mo) |
+| Generations | 200/mo | 500/mo | 1,500+/mo |
+| Platforms | All 7 | All 7 | All 7 |
+| Automation | Manual execution | Advanced automation | Full automation + predictive scaling AI |
 
-## How credits work
+Prices shown as listed on [marketingtool.pro](https://marketingtool.pro) — the pricing page is always the source of truth.
 
-* Each tool run consumes credits based on the size of the job.
-* Your balance is shown in the app at all times — the number you see is your real, live balance.
-* Credits renew with your billing cycle.
+## Need a few more generations?
 
-## Upgrading
+You can top up anytime: **$3 buys 100 extra generations**, without changing your plan.
 
-* **On the web** — upgrade from your dashboard.
-* **On iOS / Android** — subscriptions are handled as in-app purchases through the App Store / Google Play. See [Subscriptions](../billing/subscriptions.md).
+## How generations (credits) work
+
+* Each tool run consumes generations based on the size of the job.
+* Your live balance is always visible in the app — the number you see is real.
+* Generations renew with your billing cycle; top-ups add on immediately.
+
+## Where to subscribe
+
+* **Web** — from your [dashboard](https://app.marketingtool.pro/dashboard) or the pricing page.
+* **iOS / Android** — in-app purchase through the App Store / Google Play. See [Subscriptions](../billing/subscriptions.md).

@@ -6,22 +6,26 @@ description: Everything you need to know to hit the ground running
 
 ## 1. Create your account
 
-Go to [marketingtool.pro](https://marketingtool.pro) and press **Get Started**, or install the mobile app and sign up there. You can sign in with an email one-time code (OTP) or with your existing Google/Apple account. See [Create an account](create-account.md).
+Press **Get Started** on [marketingtool.pro](https://marketingtool.pro), or install the iOS/Android app. Sign in with an email one-time code or a supported provider — one account works everywhere. Details: [Create an account](create-account.md).
 
 ## 2. Tell us about yourself
 
-On first launch you'll be asked how you'd describe yourself — content creator, social media specialist, digital marketer, sales professional, and more. Your answers personalize the recommendations you see on your dashboard.
+On first launch you pick how you'd describe yourself — content creator, social media specialist, digital marketer, sales professional, and more. Your dashboard recommendations adapt to your answer.
 
 ## 3. Pick a tool
 
-Open the **Tools** tab and browse by category — Google Ads, Meta, Instagram, SEO, e-commerce, content, analytics, and AI agents. Every tool is open on every plan; your plan only sets your usage quota. See the [tools overview](../tools/overview.md).
+Open **Tools** — on the web at [app.marketingtool.pro](https://app.marketingtool.pro/dashboard), or the Tools tab in the app. Browse by category or search by name. Every tool is open on every plan; your plan only sets your monthly generations. Start at the [tools overview](../tools/overview.md).
 
 ## 4. Run it
 
-Fill in the tool's inputs and press **Generate**. Results are delivered as a rich, full-page report — not a chat snippet. On desktop you get the full 1920px layout and a **Download All** button for every asset.
+Fill in the tool's inputs and press **Generate**. You get a complete, structured result page — not a chat snippet. On desktop, results render at full size with **Download All** for every asset.
 
 ## 5. Keep momentum
 
-* Check your **credit balance** anytime — it's always visible and always real. See [Plans & credits](plans-and-credits.md).
-* Re-run and refine: every tool keeps your history so you can iterate.
-* Ask **MarketBot** when you're stuck — see [Chat with MarketBot](../marketbot/chat-assistant.md).
+* Watch your **live balance** — see [Plans & credits](plans-and-credits.md).
+* Everything lands in **History**, so you can revisit and iterate from any device.
+* Stuck? Ask [MarketBot](../marketbot/chat-assistant.md), or explore the [web app's Command Centre](../web-app/dashboard.md).
+
+{% hint style="success" %}
+**Pro tip:** start with a Grader tool (like Google Ads Performance Grader or Website Grader) — it gives you an instant baseline and tells you where the wins are.
+{% endhint %}

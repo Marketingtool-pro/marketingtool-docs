@@ -23,13 +23,21 @@
   * [Email Marketing](tools/email-marketing.md)
   * [AI Agents & Automation](tools/ai-agents.md)
 
+## Web App
+
+* [Dashboard](web-app/dashboard.md)
+* [Analytics, campaigns & reports](web-app/analytics-campaigns-reports.md)
+
+## Mobile Apps
+
+* [The mobile apps](mobile/mobile-apps.md)
+
 ## MarketBot
 
 * [Chat with MarketBot](marketbot/chat-assistant.md)
 
 ## Manage
 
-* [Dashboard](manage/dashboard.md)
 * [History & downloads](manage/history-and-downloads.md)
 * [Account settings](manage/account-settings.md)
 
