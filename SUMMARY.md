@@ -367,3 +367,9 @@
 * [FAQ](product/faq.md)
 * [Troubleshooting](product/troubleshooting.md)
 * [Contact](product/contact.md)
+
+## Website
+
+* [Pricing](https://marketingtool.pro/plans-billing/)
+* [Get Started](https://app.marketingtool.pro/dashboard)
+* [Download the apps](https://marketingtool.pro/)
