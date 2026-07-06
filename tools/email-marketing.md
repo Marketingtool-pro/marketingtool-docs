@@ -6,10 +6,10 @@ description: Write emails that convert — cold outreach, product launches, and 
 
 Write emails that convert — cold outreach, product launches, and full sequences.
 
-This category includes **3 tools**. Open any of them from the Tools tab in the app or the web dashboard, fill in the inputs, and generate a full result page.
+**3 tools** — every one documented on its own page with inputs, tips, and where to find it.
 
 ## Tools in this category
 
-* **Cold Outreach Email**
-* **Email Writer**
-* **Product Launch Email Sequence**
+* [Cold Outreach Email](email-marketing/cold-outreach-email.md)
+* [Email Writer](email-marketing/email-writer.md)
+* [Product Launch Email Sequence](email-marketing/product-launch-email-sequence.md)

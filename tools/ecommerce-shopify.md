@@ -6,60 +6,60 @@ description: Sell more with product feed optimization, dynamic product ads, cart
 
 Sell more with product feed optimization, dynamic product ads, cart recovery, and a full Shopify toolkit.
 
-This category includes **53 tools**. Open any of them from the Tools tab in the app or the web dashboard, fill in the inputs, and generate a full result page.
+**53 tools** — every one documented on its own page with inputs, tips, and where to find it.
 
 ## Tools in this category
 
-* **Ad Budget Allocator**
-* **Advantage Plus Campaign Builder**
-* **Amazon PPC Optimizer**
-* **Attribution Window Optimizer**
-* **Cart Abandonment Analyzer**
-* **Cart Recovery Ads**
-* **Conversion Rate Optimizer**
-* **Creative Fatigue Detector**
-* **Cross Sell Ad Generator**
-* **Cross-Sell Upsell Flow Builder**
-* **Customer Acquisition Cost Optimizer**
-* **Customer Lifetime Value Calculator**
-* **Customer Winback Flow Creator**
-* **Dynamic Pricing Optimizer**
-* **Dynamic Product Ads**
-* **Ecommerce A/B Test Planner**
-* **Ecommerce Ad Platform**
-* **Ecommerce Chatbot Builder**
-* **Ecommerce Growth Roadmap Generator**
-* **Ecommerce KPI Dashboard**
-* **Ecommerce Reporting Automator**
-* **Ecommerce Workflow Automator**
-* **Google Shopping Optimizer**
-* **Gross Margin Analyzer**
-* **Inventory Based Ad Manager**
-* **Loyalty VIP Rewards Designer**
-* **Marketing Efficiency Ratio Tracker**
-* **Milestone Email Automator**
-* **Omnichannel Campaign Orchestrator**
-* **Performance Max Campaign Manager**
-* **Platform Expansion Planner**
-* **Post-Purchase Follow-Up Builder**
-* **Predictive Inventory Manager**
-* **Product Feed Optimizer**
-* **Product Performance Tracker**
-* **Product Recommendation Engine**
-* **ROAS Analyzer**
-* **Replenishment Reminder Engine**
-* **Retargeting Funnel Builder**
-* **Seasonal Ecommerce Planner**
-* **Shopify App Stack Advisor**
-* **Shopify Email Flow Builder**
-* **Shopify Marketing Tools**
-* **Shopify Product Page Enhancer**
-* **Shopify SEO Optimizer**
-* **Shopify Store Audit**
-* **Shopify Theme Conversion Optimizer**
-* **Shopify Trust Badge Optimizer**
-* **Shopify Upsell Strategy Generator**
-* **Social Commerce Ad Launcher**
-* **TikTok Ecommerce Ad Creator**
-* **Voice Search Product Optimizer**
-* **Welcome Series Generator**
+* [Ad Budget Allocator](ecommerce-shopify/ad-budget-allocator.md)
+* [Advantage Plus Campaign Builder](ecommerce-shopify/advantage-plus-campaign-builder.md)
+* [Amazon PPC Optimizer](ecommerce-shopify/amazon-ppc-optimizer.md)
+* [Attribution Window Optimizer](ecommerce-shopify/attribution-window-optimizer.md)
+* [Cart Abandonment Analyzer](ecommerce-shopify/cart-abandonment-analyzer.md)
+* [Cart Recovery Ads](ecommerce-shopify/cart-recovery-ads.md)
+* [Conversion Rate Optimizer](ecommerce-shopify/conversion-rate-optimizer.md)
+* [Creative Fatigue Detector](ecommerce-shopify/creative-fatigue-detector.md)
+* [Cross Sell Ad Generator](ecommerce-shopify/cross-sell-ad-generator.md)
+* [Cross-Sell Upsell Flow Builder](ecommerce-shopify/cross-sell-upsell-flow-builder.md)
+* [Customer Acquisition Cost Optimizer](ecommerce-shopify/customer-acquisition-cost-optimizer.md)
+* [Customer Lifetime Value Calculator](ecommerce-shopify/customer-lifetime-value-calculator.md)
+* [Customer Winback Flow Creator](ecommerce-shopify/customer-winback-flow-creator.md)
+* [Dynamic Pricing Optimizer](ecommerce-shopify/dynamic-pricing-optimizer.md)
+* [Dynamic Product Ads](ecommerce-shopify/dynamic-product-ads.md)
+* [Ecommerce A/B Test Planner](ecommerce-shopify/ecommerce-ab-test-planner.md)
+* [Ecommerce Ad Platform](ecommerce-shopify/ecommerce-ad-platform.md)
+* [Ecommerce Chatbot Builder](ecommerce-shopify/ecommerce-chatbot-builder.md)
+* [Ecommerce Growth Roadmap Generator](ecommerce-shopify/ecommerce-growth-roadmap-generator.md)
+* [Ecommerce KPI Dashboard](ecommerce-shopify/ecommerce-kpi-dashboard.md)
+* [Ecommerce Reporting Automator](ecommerce-shopify/ecommerce-reporting-automator.md)
+* [Ecommerce Workflow Automator](ecommerce-shopify/ecommerce-workflow-automator.md)
+* [Google Shopping Optimizer](ecommerce-shopify/google-shopping-optimizer.md)
+* [Gross Margin Analyzer](ecommerce-shopify/gross-margin-analyzer.md)
+* [Inventory Based Ad Manager](ecommerce-shopify/inventory-based-ad-manager.md)
+* [Loyalty VIP Rewards Designer](ecommerce-shopify/loyalty-vip-rewards-designer.md)
+* [Marketing Efficiency Ratio Tracker](ecommerce-shopify/marketing-efficiency-ratio-tracker.md)
+* [Milestone Email Automator](ecommerce-shopify/milestone-email-automator.md)
+* [Omnichannel Campaign Orchestrator](ecommerce-shopify/omnichannel-campaign-orchestrator.md)
+* [Performance Max Campaign Manager](ecommerce-shopify/performance-max-campaign-manager.md)
+* [Platform Expansion Planner](ecommerce-shopify/platform-expansion-planner.md)
+* [Post-Purchase Follow-Up Builder](ecommerce-shopify/post-purchase-follow-up-builder.md)
+* [Predictive Inventory Manager](ecommerce-shopify/predictive-inventory-manager.md)
+* [Product Feed Optimizer](ecommerce-shopify/product-feed-optimizer.md)
+* [Product Performance Tracker](ecommerce-shopify/product-performance-tracker.md)
+* [Product Recommendation Engine](ecommerce-shopify/product-recommendation-engine.md)
+* [ROAS Analyzer](ecommerce-shopify/roas-analyzer.md)
+* [Replenishment Reminder Engine](ecommerce-shopify/replenishment-reminder-engine.md)
+* [Retargeting Funnel Builder](ecommerce-shopify/retargeting-funnel-builder.md)
+* [Seasonal Ecommerce Planner](ecommerce-shopify/seasonal-ecommerce-planner.md)
+* [Shopify App Stack Advisor](ecommerce-shopify/shopify-app-stack-advisor.md)
+* [Shopify Email Flow Builder](ecommerce-shopify/shopify-email-flow-builder.md)
+* [Shopify Marketing Tools](ecommerce-shopify/shopify-marketing-tools.md)
+* [Shopify Product Page Enhancer](ecommerce-shopify/shopify-product-page-enhancer.md)
+* [Shopify SEO Optimizer](ecommerce-shopify/shopify-seo-optimizer.md)
+* [Shopify Store Audit](ecommerce-shopify/shopify-store-audit.md)
+* [Shopify Theme Conversion Optimizer](ecommerce-shopify/shopify-theme-conversion-optimizer.md)
+* [Shopify Trust Badge Optimizer](ecommerce-shopify/shopify-trust-badge-optimizer.md)
+* [Shopify Upsell Strategy Generator](ecommerce-shopify/shopify-upsell-strategy-generator.md)
+* [Social Commerce Ad Launcher](ecommerce-shopify/social-commerce-ad-launcher.md)
+* [TikTok Ecommerce Ad Creator](ecommerce-shopify/tiktok-ecommerce-ad-creator.md)
+* [Voice Search Product Optimizer](ecommerce-shopify/voice-search-product-optimizer.md)
+* [Welcome Series Generator](ecommerce-shopify/welcome-series-generator.md)

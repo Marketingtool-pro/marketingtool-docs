@@ -6,86 +6,86 @@ description: Audit, optimize, and scale your Google Ads campaigns — budgets, b
 
 Audit, optimize, and scale your Google Ads campaigns — budgets, bids, keywords, quality scores, and full account graders.
 
-This category includes **79 tools**. Open any of them from the Tools tab in the app or the web dashboard, fill in the inputs, and generate a full result page.
+**79 tools** — every one documented on its own page with inputs, tips, and where to find it.
 
 ## Tools in this category
 
-* **Ad Audit Tool**
-* **Ad Group Audit**
-* **Ad Management Suite**
-* **Ad Position Analyzer**
-* **Ad Rank Calculator**
-* **Ad Testing & Optimization**
-* **Ai Campaign Manager**
-* **Audience Optimization Tool**
-* **Auto Scaling Budget Tool**
-* **Bid Management Tool**
-* **Bid Optimization Engine**
-* **Bid Suggestions Tool**
-* **Budget Management Tool**
-* **Budget Manager**
-* **Budget Performance Analyzer**
-* **CTR Optimization Tool**
-* **Campaign Ab Test Manager**
-* **Campaign Audit Tool**
-* **Campaign Auto Optimizer**
-* **Campaign Budget Allocator**
-* **Campaign Cloner Pro**
-* **Campaign Compliance Checker**
-* **Campaign Health Monitor**
-* **Campaign Optimization Engine**
-* **Campaign Performance Predictor**
-* **Campaign Scaling Assistant**
-* **Campaign Template Library**
-* **Campaign Tools Suite**
-* **Ctr Predictor**
-* **Dayparting Optimizer**
-* **Device Optimization**
-* **Dynamic Keyword Insertion Tool**
-* **Facebook Ads Performance Grader**
-* **Free PPC Audit Report**
-* **Geo Targeting Optimizer**
-* **Google Ads Automation Rules**
-* **Google Ads Budget Calculator**
-* **Google Ads Campaign Manager**
-* **Google Ads Editor Alternative**
-* **Google Ads Keyword Planner**
-* **Google Ads Performance Grader**
-* **Google Analytics Grader**
-* **Google Trends for PPC**
-* **Keyword Analysis Tool**
-* **Keyword Audit Tool**
-* **Keyword Grouping Tool**
-* **Keyword Intent Analyzer**
-* **Landing Page Audit**
-* **Marketing Budget Planner**
-* **Microsoft Ads Grader**
-* **Multi Platform Campaign Hub**
-* **Negative Keyword Audit**
-* **Negative Keyword Builder**
-* **On Page Seo Checker**
-* **PPC Account Auditor**
-* **PPC Audit & Analysis**
-* **PPC Budget Calculator**
-* **PPC Campaign Builder**
-* **PPC Optimization Suite**
-* **PPC Performance Monitor**
-* **PPC Rule Engine**
-* **PPC Tool Comparison Engine**
-* **Performance Booster**
-* **Performance Max Optimizer**
-* **Placement Audit**
-* **Placement Optimization**
-* **Quality Score Analyzer**
-* **Quality Score Audit**
-* **Quality Score Checker**
-* **Quality Score Improver**
-* **Rule Based Campaign Manager**
-* **Scientific Ad Testing**
-* **Search Term Analyzer**
-* **Search Term Audit**
-* **Seo Audit Tool**
-* **Shopify Campaign Manager**
-* **Shopping Campaign Intelligence**
-* **Smart Bidding Optimizer**
-* **Website Grader**
+* [Ad Audit Tool](google-ads/ad-audit-tool.md)
+* [Ad Group Audit](google-ads/ad-group-audit.md)
+* [Ad Management Suite](google-ads/ppc-ad-management-tools.md)
+* [Ad Position Analyzer](google-ads/ad-position-tool.md)
+* [Ad Rank Calculator](google-ads/ad-ranking-tool.md)
+* [Ad Testing & Optimization](google-ads/ad-testing.md)
+* [Ai Campaign Manager](google-ads/ai-campaign-manager.md)
+* [Audience Optimization Tool](google-ads/audience-optimization-tool.md)
+* [Auto Scaling Budget Tool](google-ads/auto-scaling-budget-tool.md)
+* [Bid Management Tool](google-ads/ppc-bid-management-tools.md)
+* [Bid Optimization Engine](google-ads/bid-optimization-engine.md)
+* [Bid Suggestions Tool](google-ads/bid-suggestions-tool.md)
+* [Budget Management Tool](google-ads/budget-management.md)
+* [Budget Manager](google-ads/budget-manager.md)
+* [Budget Performance Analyzer](google-ads/budget-performance-analyzer.md)
+* [CTR Optimization Tool](google-ads/ctr-optimizer.md)
+* [Campaign Ab Test Manager](google-ads/campaign-ab-test-manager.md)
+* [Campaign Audit Tool](google-ads/campaign-audit-tool.md)
+* [Campaign Auto Optimizer](google-ads/campaign-auto-optimizer.md)
+* [Campaign Budget Allocator](google-ads/campaign-budget-allocator.md)
+* [Campaign Cloner Pro](google-ads/campaign-cloner-pro.md)
+* [Campaign Compliance Checker](google-ads/campaign-compliance-checker.md)
+* [Campaign Health Monitor](google-ads/campaign-health-monitor.md)
+* [Campaign Optimization Engine](google-ads/campaign-optimization-engine.md)
+* [Campaign Performance Predictor](google-ads/campaign-performance-predictor.md)
+* [Campaign Scaling Assistant](google-ads/campaign-scaling-assistant.md)
+* [Campaign Template Library](google-ads/campaign-template-library.md)
+* [Campaign Tools Suite](google-ads/campaign-tools-suite.md)
+* [Ctr Predictor](google-ads/ctr-predictor.md)
+* [Dayparting Optimizer](google-ads/dayparting-optimizer.md)
+* [Device Optimization](google-ads/device-optimization.md)
+* [Dynamic Keyword Insertion Tool](google-ads/dki-tool.md)
+* [Facebook Ads Performance Grader](google-ads/facebook-ads-performance-grader.md)
+* [Free PPC Audit Report](google-ads/free-ppc-tools.md)
+* [Geo Targeting Optimizer](google-ads/geo-targeting-optimizer.md)
+* [Google Ads Automation Rules](google-ads/automation.md)
+* [Google Ads Budget Calculator](google-ads/google-ads-budget-calculator.md)
+* [Google Ads Campaign Manager](google-ads/google-ads-manager.md)
+* [Google Ads Editor Alternative](google-ads/google-ads-editor-alternative.md)
+* [Google Ads Keyword Planner](google-ads/adwords-keyword-tool.md)
+* [Google Ads Performance Grader](google-ads/google-ads-performance-grader.md)
+* [Google Analytics Grader](google-ads/google-analytics-grader.md)
+* [Google Trends for PPC](google-ads/google-trends-tool.md)
+* [Keyword Analysis Tool](google-ads/ppc-keyword-analysis-tool.md)
+* [Keyword Audit Tool](google-ads/keyword-audit-tool.md)
+* [Keyword Grouping Tool](google-ads/keyword-grouping-tool.md)
+* [Keyword Intent Analyzer](google-ads/keyword-intent-analyzer.md)
+* [Landing Page Audit](google-ads/landing-page-audit.md)
+* [Marketing Budget Planner](google-ads/marketing-budget-planner.md)
+* [Microsoft Ads Grader](google-ads/microsoft-ads-grader.md)
+* [Multi Platform Campaign Hub](google-ads/multi-platform-campaign-hub.md)
+* [Negative Keyword Audit](google-ads/negative-keyword-audit.md)
+* [Negative Keyword Builder](google-ads/negative-keywords-tool.md)
+* [On Page Seo Checker](google-ads/on-page-seo-checker.md)
+* [PPC Account Auditor](google-ads/auditing.md)
+* [PPC Audit & Analysis](google-ads/ppc-audit-analysis-tools.md)
+* [PPC Budget Calculator](google-ads/ppc-budget-tool.md)
+* [PPC Campaign Builder](google-ads/ppc-campaign-builder.md)
+* [PPC Optimization Suite](google-ads/ppc-optimization-tools.md)
+* [PPC Performance Monitor](google-ads/monitoring.md)
+* [PPC Rule Engine](google-ads/ppc-audits-rule-engine.md)
+* [PPC Tool Comparison Engine](google-ads/free-tool-comparisons.md)
+* [Performance Booster](google-ads/ppc-performance-boost.md)
+* [Performance Max Optimizer](google-ads/performance-max.md)
+* [Placement Audit](google-ads/placement-audit.md)
+* [Placement Optimization](google-ads/placement-optimization.md)
+* [Quality Score Analyzer](google-ads/google-ads-quality-score.md)
+* [Quality Score Audit](google-ads/quality-score-audit.md)
+* [Quality Score Checker](google-ads/quality-score-checker.md)
+* [Quality Score Improver](google-ads/ppc-quality-score.md)
+* [Rule Based Campaign Manager](google-ads/rule-based-campaign-manager.md)
+* [Scientific Ad Testing](google-ads/scientific-ad-testing.md)
+* [Search Term Analyzer](google-ads/ppc-search-term-analysis.md)
+* [Search Term Audit](google-ads/search-term-audit.md)
+* [Seo Audit Tool](google-ads/seo-audit-tool.md)
+* [Shopify Campaign Manager](google-ads/shopify-campaign-manager.md)
+* [Shopping Campaign Intelligence](google-ads/shopping-campaign-intelligence.md)
+* [Smart Bidding Optimizer](google-ads/ppc-bidding-tools.md)
+* [Website Grader](google-ads/website-grader.md)

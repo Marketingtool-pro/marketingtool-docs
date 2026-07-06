@@ -6,18 +6,18 @@ description: Research keywords, close content gaps, and generate metadata that r
 
 Research keywords, close content gaps, and generate metadata that ranks.
 
-This category includes **11 tools**. Open any of them from the Tools tab in the app or the web dashboard, fill in the inputs, and generate a full result page.
+**11 tools** — every one documented on its own page with inputs, tips, and where to find it.
 
 ## Tools in this category
 
-* **Backlink Outreach Email Generator**
-* **Content Gap Finder**
-* **Free Keyword Tools**
-* **Internal Linking Suggestions**
-* **Keyword Cluster Generator**
-* **Keyword Intent Detector**
-* **Keyword Research Tool**
-* **Long Tail Keyword Generator**
-* **Meta Description Generator**
-* **Seo Title Generator**
-* **Serp Analyzer**
+* [Backlink Outreach Email Generator](seo/backlink-outreach-email-generator.md)
+* [Content Gap Finder](seo/content-gap-finder.md)
+* [Free Keyword Tools](seo/free-keyword-tools.md)
+* [Internal Linking Suggestions](seo/internal-linking-suggestions.md)
+* [Keyword Cluster Generator](seo/keyword-cluster-generator.md)
+* [Keyword Intent Detector](seo/keyword-intent-detector.md)
+* [Keyword Research Tool](seo/keyword-research-tool.md)
+* [Long Tail Keyword Generator](seo/long-tail-keyword-generator.md)
+* [Meta Description Generator](seo/meta-description-generator.md)
+* [Seo Title Generator](seo/seo-title-generator.md)
+* [Serp Analyzer](seo/serp-analyzer.md)
